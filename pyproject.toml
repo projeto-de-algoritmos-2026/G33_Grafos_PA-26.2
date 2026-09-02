@@ -1,0 +1,54 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "skillroute"
+version = "0.1.0"
+description = "Sistema acadêmico de recomendação de vagas e trilhas de aprendizagem baseado em grafos e Dijkstra"
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [
+    { name = "Eric Silveira Gomes" }
+]
+keywords = ["graphs", "dijkstra", "career-path", "job-recommendation", "streamlit", "pydantic"]
+dependencies = [
+    "streamlit>=1.30.0",
+    "pydantic>=2.5.0",
+    "pyvis>=0.3.2"
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.3.0",
+    "build>=1.0.0"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["skillroute*"]
+
+[tool.setuptools.package-data]
+"skillroute.data" = ["*.json"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # Pyflakes
+    "I",   # isort
+    "UP",  # pyupgrade
+    "B",   # flake8-bugbear
+    "C4",  # flake8-comprehensions
+]
+ignore = [
+    "E501",  # line length handled by formatter
+]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
