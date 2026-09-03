@@ -1,0 +1,3662 @@
+[
+  {
+    "id": "job-dev-001",
+    "title": "Desenvolvedor Backend Python Júnior",
+    "canonical_role": "backend_developer",
+    "area": "software_development",
+    "seniority": "junior",
+    "company": "TechStream Soluções",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Atuar na construção e manutenção de microsserviços e APIs REST de alta performance em Python e FastAPI.",
+    "responsibilities": [
+      "Desenvolver endpoints e regras de negócio em Python e FastAPI",
+      "Criar e manter migrações em banco de dados PostgreSQL",
+      "Escrever testes unitários e de integração com Pytest",
+      "Participar de code reviews e rituais ágeis da equipe"
+    ],
+    "requirements": [
+      {
+        "skill_id": "python",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "fastapi",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "postgresql",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "git",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "rest_apis",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "pytest",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "redis",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 1
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-dev-002",
+    "title": "Desenvolvedor Backend Python & Django Pleno",
+    "canonical_role": "backend_developer",
+    "area": "software_development",
+    "seniority": "pleno",
+    "company": "Fintech Horizonte",
+    "location": "São Paulo, SP (Híbrido)",
+    "employment_type": "Tempo integral",
+    "description": "Responsável por projetar arquiteturas resilientes e serviços de pagamento escaláveis em Python e Django.",
+    "responsibilities": [
+      "Projetar e implementar APIs robustas em Django e Django REST Framework",
+      "Otimizar consultas e modelagem no PostgreSQL",
+      "Integrar filas assíncronas com Redis e Celery",
+      "Garantir cobertura de testes automatizados"
+    ],
+    "requirements": [
+      {
+        "skill_id": "python",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "django",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "postgresql",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "unit_testing",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "redis",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "aws",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "microservices",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-dev-003",
+    "title": "Desenvolvedor Backend Java Spring Boot Sênior",
+    "canonical_role": "backend_developer",
+    "area": "software_development",
+    "seniority": "senior",
+    "company": "Banco Digital Alpha",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Liderar tecnicamente a arquitetura de microsserviços de missão crítica em Java e Spring Boot com mensageria.",
+    "responsibilities": [
+      "Definir padrões arquiteturais e guias de boas práticas para serviços Java",
+      "Projetar fluxos orientados a eventos com Apache Kafka e RabbitMQ",
+      "Mentorar desenvolvedores juniores e plenos em design patterns e Clean Architecture",
+      "Garantir alta disponibilidade e baixa latência sob picos de transação"
+    ],
+    "requirements": [
+      {
+        "skill_id": "java",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "spring_boot",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "microservices",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "software_architecture",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "apache_kafka",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "kubernetes",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "grpc",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-dev-004",
+    "title": "Desenvolvedor Frontend React Pleno",
+    "canonical_role": "frontend_developer",
+    "area": "software_development",
+    "seniority": "pleno",
+    "company": "OmniCommerce Brasil",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Desenvolver interfaces ricas, performáticas e acessíveis para nossa plataforma de e-commerce global.",
+    "responsibilities": [
+      "Construir componentes reutilizáveis em React e TypeScript",
+      "Integrar com APIs REST e GraphQL",
+      "Garantir acessibilidade (WCAG) e responsividade mobile-first",
+      "Implementar testes automatizados de componentes com Jest e Cypress"
+    ],
+    "requirements": [
+      {
+        "skill_id": "javascript",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "typescript",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "react",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "html_css",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "git",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "nextjs",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "graphql",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "jest",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-dev-005",
+    "title": "Engenheiro de Software Full Stack Node.js & React Pleno",
+    "canonical_role": "fullstack_developer",
+    "area": "software_development",
+    "seniority": "pleno",
+    "company": "SaaS Factory",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Atuar de ponta a ponta na entrega de novas features para nossa plataforma de gestão corporativa.",
+    "responsibilities": [
+      "Desenvolver APIs em Node.js com NestJS e TypeScript",
+      "Construir telas dinâmicas no frontend em React e Next.js",
+      "Modelar e consultar dados no PostgreSQL e Redis",
+      "Configurar pipelines de CI/CD no GitHub Actions"
+    ],
+    "requirements": [
+      {
+        "skill_id": "typescript",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "nodejs",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "react",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "postgresql",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "nestjs",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "nextjs",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "github_actions",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 1
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-dev-006",
+    "title": "Desenvolvedor Mobile Flutter Júnior",
+    "canonical_role": "mobile_developer",
+    "area": "software_development",
+    "seniority": "junior",
+    "company": "AppVentures",
+    "location": "Belo Horizonte, MG (Híbrido)",
+    "employment_type": "Tempo integral",
+    "description": "Integrar time de desenvolvimento mobile criando experiências multiplataforma em Flutter e Dart.",
+    "responsibilities": [
+      "Desenvolver telas e fluxos de navegação em Flutter para iOS e Android",
+      "Consumir serviços RESTful e autenticação OAuth",
+      "Implementar testes de widgets e testes unitários",
+      "Acompanhar publicação de versões nas lojas Google Play e App Store"
+    ],
+    "requirements": [
+      {
+        "skill_id": "flutter",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "dart",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "rest_apis",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "git",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "android_native",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "ios_native",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-dev-007",
+    "title": "Desenvolvedor Backend .NET Core Pleno",
+    "canonical_role": "backend_developer",
+    "area": "software_development",
+    "seniority": "pleno",
+    "company": "Seguradora Nacional Tech",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Construção de APIs de alta confiabilidade no ecossistema .NET Core e integração com bancos relacionais corporativos.",
+    "responsibilities": [
+      "Desenvolver serviços em C# e ASP.NET Core",
+      "Modelar tabelas e procedures em SQL Server",
+      "Implementar mensageria com RabbitMQ",
+      "Garantir cobertura de testes e análise estática"
+    ],
+    "requirements": [
+      {
+        "skill_id": "csharp",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "dotnet",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "sql_server",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "rest_apis",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "rabbitmq",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-dev-008",
+    "title": "Engenheiro de Software Backend Go & Microsserviços Sênior",
+    "canonical_role": "software_engineer",
+    "area": "software_development",
+    "seniority": "senior",
+    "company": "ScaleCloud Network",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Desenvolvimento de motores de processamento de alto rendimento, concorrência e baixa latência em Go e gRPC.",
+    "responsibilities": [
+      "Projetar sistemas distribuídos com alta concorrência em Golang",
+      "Definir comunicação RPC com gRPC e Protocol Buffers",
+      "Otimizar consumo de memória e latência P99",
+      "Trabalhar em conjunto com equipes de DevOps para deploy em Kubernetes"
+    ],
+    "requirements": [
+      {
+        "skill_id": "golang",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "microservices",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "grpc",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "data_structures_algorithms",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "kubernetes",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "redis",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-dev-009",
+    "title": "Estágio em Desenvolvimento de Software Web",
+    "canonical_role": "software_engineer",
+    "area": "software_development",
+    "seniority": "estagio",
+    "company": "InovaLab Tecnologia",
+    "location": "Brasília, DF (Presencial)",
+    "employment_type": "Meio período",
+    "description": "Oportunidade para estudantes de computação desenvolverem habilidades práticas em backend Python e frontend web.",
+    "responsibilities": [
+      "Apoiar o time na resolução de bugs e tarefas de baixa complexidade",
+      "Aprender boas práticas de versionamento com Git e GitHub",
+      "Criar pequenos scripts de automação e endpoints básicos",
+      "Escrever documentação técnica inicial"
+    ],
+    "requirements": [
+      {
+        "skill_id": "python",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "javascript",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "git",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "html_css",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 2
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ops-001",
+    "title": "Analista DevOps Júnior",
+    "canonical_role": "devops_engineer",
+    "area": "devops_platform",
+    "seniority": "junior",
+    "company": "CloudOps Solutions",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Suporte à automação de esteiras de CI/CD e gerenciamento de contêineres Docker em ambiente de nuvem.",
+    "responsibilities": [
+      "Construir e otimizar Dockerfiles e imagens de contêineres",
+      "Manter esteiras de CI/CD no GitHub Actions",
+      "Apoiar no gerenciamento de servidores Linux",
+      "Auxiliar no monitoramento básico de métricas de infraestrutura"
+    ],
+    "requirements": [
+      {
+        "skill_id": "linux",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "git",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "cicd_pipelines",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "bash_shell",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "aws",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "kubernetes",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ops-002",
+    "title": "Engenheiro DevOps AWS Pleno",
+    "canonical_role": "devops_engineer",
+    "area": "devops_platform",
+    "seniority": "pleno",
+    "company": "E-Pay Brasil",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Provisionamento de infraestrutura como código (IaC) com Terraform e orquestração de contêineres em AWS.",
+    "responsibilities": [
+      "Escrever módulos reutilizáveis de Terraform para provisionar serviços AWS",
+      "Gerenciar clusters Kubernetes (EKS) e Helm charts",
+      "Automatizar deploys de aplicações com GitLab CI e Argo CD",
+      "Garantir políticas de segurança em nuvem e gestão de segredos"
+    ],
+    "requirements": [
+      {
+        "skill_id": "aws",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "terraform",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "kubernetes",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "cicd_pipelines",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "helm",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "prometheus",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ops-003",
+    "title": "Site Reliability Engineer (SRE) Sênior",
+    "canonical_role": "sre_engineer",
+    "area": "devops_platform",
+    "seniority": "senior",
+    "company": "Fintech Global Pay",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Garantir a confiabilidade, resiliência, escalabilidade e observabilidade de sistemas críticos com milhões de RPS.",
+    "responsibilities": [
+      "Definir e monitorar SLIs, SLOs e Error Budgets para serviços críticos",
+      "Liderar processos de resposta a incidentes e post-mortems sem culpa",
+      "Projetar arquitetura de observabilidade unificada com Prometheus, Grafana e OpenTelemetry",
+      "Implementar testes de caos e planos de disaster recovery"
+    ],
+    "requirements": [
+      {
+        "skill_id": "kubernetes",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "prometheus",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "grafana",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "linux",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "opentelemetry",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "golang",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "terraform",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ops-004",
+    "title": "Engenheiro de Plataforma (Internal Developer Platform) Sênior",
+    "canonical_role": "platform_engineer",
+    "area": "devops_platform",
+    "seniority": "senior",
+    "company": "CorePlatform Systems",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Criar a plataforma interna de desenvolvedores (IDP) para acelerar a entrega de software com padrões de self-service.",
+    "responsibilities": [
+      "Construir portais e ferramentas de autoatendimento para desenvolvedores",
+      "Gerenciar clusters Kubernetes em larga escala e políticas de GitOps com Argo CD",
+      "Padronizar templates de microsserviços e esteiras automatizadas",
+      "Reduzir a carga cognitiva dos times de engenharia de produto"
+    ],
+    "requirements": [
+      {
+        "skill_id": "kubernetes",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "argo_cd",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "helm",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "terraform",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "golang",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "aws",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ops-005",
+    "title": "Engenheiro Cloud Azure Pleno",
+    "canonical_role": "cloud_infrastructure_engineer",
+    "area": "devops_platform",
+    "seniority": "pleno",
+    "company": "Enterprise Tech Corp",
+    "location": "Curitiba, PR (Híbrido)",
+    "employment_type": "Tempo integral",
+    "description": "Administração e arquitetura de infraestrutura na nuvem Microsoft Azure para ambientes corporativos.",
+    "responsibilities": [
+      "Projetar redes virtuais (VNet), subnets e regras de firewall no Azure",
+      "Provisionar recursos utilizando Terraform e Azure Bicep",
+      "Implementar políticas de backup, recuperação e controle de custos no Azure",
+      "Colaborar com times de infraestrutura e suporte corporativo"
+    ],
+    "requirements": [
+      {
+        "skill_id": "azure",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "terraform",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "networking_security",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "linux",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "ansible",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ops-006",
+    "title": "Engenheiro de Observabilidade e Monitoramento Pleno",
+    "canonical_role": "observability_engineer",
+    "area": "devops_platform",
+    "seniority": "pleno",
+    "company": "MonitorStack Analytics",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Foco dedicado na coleta, centralização e visualização de logs, métricas e traces de dezenas de microsserviços.",
+    "responsibilities": [
+      "Configurar coletores OpenTelemetry em ambientes distribuídos",
+      "Construir dashboards avançados no Grafana para equipes de engenharia",
+      "Manter clusters de Elasticsearch / OpenSearch e Prometheus",
+      "Criar alertas acionáveis e reduzir fadiga de alertas"
+    ],
+    "requirements": [
+      {
+        "skill_id": "prometheus",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "grafana",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "opentelemetry",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "elasticsearch",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "linux",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "kubernetes",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ops-007",
+    "title": "Engenheiro DevSecOps Pleno",
+    "canonical_role": "devsecops_engineer",
+    "area": "devops_platform",
+    "seniority": "pleno",
+    "company": "SecureNet Brasil",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Integrar segurança em todas as fases do ciclo de desenvolvimento de software e infraestrutura em nuvem.",
+    "responsibilities": [
+      "Implementar ferramentas de SAST, DAST e análise de dependências nas esteiras CI/CD",
+      "Realizar auditorias de conformidade e gestão de vulnerabilidades em contêineres",
+      "Garantir políticas de least privilege (IAM) e gestão segura de chaves criptográficas",
+      "Apoiar desenvolvedores na correção de falhas de segurança conhecidas"
+    ],
+    "requirements": [
+      {
+        "skill_id": "cicd_pipelines",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "security_testing_owasp",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "networking_security",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "aws",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "kubernetes",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ops-008",
+    "title": "Especialista em Infraestrutura e Kubernetes",
+    "canonical_role": "platform_engineer",
+    "area": "devops_platform",
+    "seniority": "especialista",
+    "company": "MegaCloud Enterprise",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Referência técnica máxima em arquitetura de infraestrutura multicloud e orquestração de contêineres de alta escala.",
+    "responsibilities": [
+      "Definir a estratégia multicloud de longo prazo (AWS e GCP)",
+      "Projetar arquitetura de redes de malha (Service Mesh) e resiliência em Kubernetes",
+      "Orientar executivos e equipes técnicas em decisões de capacidade e orçamento de nuvem",
+      "Liderar a adoção de tecnologias emergentes em computação em nuvem"
+    ],
+    "requirements": [
+      {
+        "skill_id": "kubernetes",
+        "minimum_level": "especialista",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "aws",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "terraform",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "linux",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "helm",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "gcp",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 3
+      },
+      {
+        "skill_id": "argo_cd",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ops-009",
+    "title": "Estágio em Cloud e Automação DevOps",
+    "canonical_role": "cloud_infrastructure_engineer",
+    "area": "devops_platform",
+    "seniority": "estagio",
+    "company": "TechStart Infra",
+    "location": "Remoto",
+    "employment_type": "Meio período",
+    "description": "Programa de estágio com mentoria contínua para estudantes com interesse em Linux, Docker e automação em nuvem.",
+    "responsibilities": [
+      "Aprender e praticar administração básica de servidores Linux",
+      "Criar pequenos scripts em Bash para automação de tarefas rotineiras",
+      "Auxiliar no empacotamento de aplicações com Docker",
+      "Participar de treinamentos em computação em nuvem"
+    ],
+    "requirements": [
+      {
+        "skill_id": "linux",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "git",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "bash_shell",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "aws",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-001",
+    "title": "Engenheiro de Dados Júnior Airflow & SQL",
+    "canonical_role": "data_engineer",
+    "area": "data_engineering",
+    "seniority": "junior",
+    "company": "DataPulse Analytics",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Desenvolver e monitorar pipelines de ingestão e transformação de dados com Apache Airflow e SQL.",
+    "responsibilities": [
+      "Construir DAGs de ingestão periódica no Apache Airflow",
+      "Escrever consultas e transformações de dados em SQL e PostgreSQL",
+      "Monitorar a execução diária de pipelines e corrigir falhas de execução",
+      "Trabalhar na ingestão de dados de fontes relacionais e APIs"
+    ],
+    "requirements": [
+      {
+        "skill_id": "python",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "apache_airflow",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "postgresql",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "git",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "dbt",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-002",
+    "title": "Engenheiro de Dados Pleno PySpark & Databricks",
+    "canonical_role": "data_engineer",
+    "area": "data_engineering",
+    "seniority": "pleno",
+    "company": "Varejo Digital S.A.",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Responsável pela modelagem do Lakehouse corporativo em Databricks e processamento distribuído com PySpark.",
+    "responsibilities": [
+      "Desenvolver jobs de transformação de grandes volumes com PySpark e Delta Lake",
+      "Projetar a arquitetura medalhão (bronze, silver, gold)",
+      "Orquestrar fluxos com Airflow ou Databricks Workflows",
+      "Garantir qualidade e testes automatizados de dados"
+    ],
+    "requirements": [
+      {
+        "skill_id": "python",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "pyspark",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "databricks",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "delta_lake",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "amazon_s3",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "apache_airflow",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-003",
+    "title": "Analytics Engineer Pleno dbt & Snowflake",
+    "canonical_role": "analytics_engineer",
+    "area": "data_engineering",
+    "seniority": "pleno",
+    "company": "Logística Expresso",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Estruturar a camada de consumo analítico aplicando engenharia de software ao SQL com dbt e Snowflake.",
+    "responsibilities": [
+      "Desenvolver e manter modelos dimensionais no Snowflake utilizando dbt",
+      "Implementar testes de dados e documentação automatizada no dbt",
+      "Garantir governança e padronização das regras de negócio em SQL",
+      "Colaborar com analistas de BI e cientistas de dados"
+    ],
+    "requirements": [
+      {
+        "skill_id": "sql",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "dbt",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "snowflake",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "data_warehouse",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "git",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "data_quality_observability",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-004",
+    "title": "Engenheiro de Streaming e Tempo Real Sênior (Kafka / Flink)",
+    "canonical_role": "streaming_data_engineer",
+    "area": "data_engineering",
+    "seniority": "senior",
+    "company": "Fintech Transacional",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Liderar a arquitetura de processamento de fluxos de eventos em tempo real com Kafka e Apache Flink para detecção de fraudes.",
+    "responsibilities": [
+      "Projetar tópicos, particionamento e retenção no Apache Kafka",
+      "Desenvolver aplicações de processamento de stream contínuo em Apache Flink ou Spark Streaming",
+      "Garantir semântica exactly-once e resiliência a falhas",
+      "Monitorar latência e throughput de pipelines de eventos"
+    ],
+    "requirements": [
+      {
+        "skill_id": "apache_kafka",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "apache_flink",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "java",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "data_lakehouse",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "kubernetes",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-005",
+    "title": "Engenheiro de Plataforma de Dados Sênior (Iceberg / Trino)",
+    "canonical_role": "data_platform_engineer",
+    "area": "data_engineering",
+    "seniority": "senior",
+    "company": "BigData Cloud Systems",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Construir a infraestrutura aberta de Lakehouse corporativo baseada em Apache Iceberg e Trino.",
+    "responsibilities": [
+      "Projetar formatos de tabela abertos com Apache Iceberg sobre Amazon S3",
+      "Otimizar queries federadas e clusters Trino para centenas de usuários concorrentes",
+      "Definir políticas de compactação de arquivos e limpeza de snapshots",
+      "Estabelecer governança e controle de acesso a dados"
+    ],
+    "requirements": [
+      {
+        "skill_id": "apache_iceberg",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "trino",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "amazon_s3",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "aws",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "terraform",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-006",
+    "title": "Engenheiro de Dados Cloud GCP BigQuery Pleno",
+    "canonical_role": "data_engineer",
+    "area": "data_engineering",
+    "seniority": "pleno",
+    "company": "Mídia & Streaming BR",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Construir pipelines de dados na nuvem GCP utilizando BigQuery, Cloud Storage e Cloud Composer (Airflow).",
+    "responsibilities": [
+      "Modelar datasets e views particionadas no Google BigQuery",
+      "Desenvolver pipelines de ingestão e enriquecimento com Python e SQL",
+      "Otimizar custos de processamento e slots no BigQuery",
+      "Integrar fontes de dados de produtos digitais e web analytics"
+    ],
+    "requirements": [
+      {
+        "skill_id": "bigquery",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "gcp",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "apache_airflow",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "dbt",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-007",
+    "title": "Desenvolvedor ETL / Integração de Dados Júnior",
+    "canonical_role": "etl_developer",
+    "area": "data_engineering",
+    "seniority": "junior",
+    "company": "Consultoria Informa",
+    "location": "São Paulo, SP (Presencial)",
+    "employment_type": "Tempo integral",
+    "description": "Desenvolvimento de rotinas de extração, carga e transformação de dados para clientes corporativos.",
+    "responsibilities": [
+      "Criar consultas SQL e stored procedures para transformação de dados",
+      "Desenvolver scripts em Python para leitura de arquivos CSV, JSON e APIs",
+      "Auxiliar na carga de dados em Data Warehouses",
+      "Validar contagem e integridade de registros carregados"
+    ],
+    "requirements": [
+      {
+        "skill_id": "sql",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "etl_elt_pipelines",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "postgresql",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "git",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-008",
+    "title": "Especialista em Engenharia de Dados e Lakehouse",
+    "canonical_role": "data_engineer",
+    "area": "data_engineering",
+    "seniority": "especialista",
+    "company": "Global Data Enterprises",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Liderança técnica e estratégica na consolidação de arquiteturas de dados de grande escala para corporações multinacionais.",
+    "responsibilities": [
+      "Desenhar a visão arquitetural de Lakehouses para petabytes de dados",
+      "Definir padrões de observabilidade de dados, linhagem e catálogo corporativo",
+      "Avaliar e homologar novas tecnologias de processamento e armazenamento",
+      "Capacitar equipes de engenharia em computação distribuída"
+    ],
+    "requirements": [
+      {
+        "skill_id": "apache_spark",
+        "minimum_level": "especialista",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "data_lakehouse",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "pyspark",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "apache_kafka",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "aws",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "data_quality_observability",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 3
+      },
+      {
+        "skill_id": "dbt",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-data-009",
+    "title": "Estágio em Engenharia de Dados",
+    "canonical_role": "data_engineer",
+    "area": "data_engineering",
+    "seniority": "estagio",
+    "company": "StartData Lab",
+    "location": "Remoto",
+    "employment_type": "Meio período",
+    "description": "Oportunidade de aprendizado prático com ferramentas modernas de pipelines de dados em nuvem.",
+    "responsibilities": [
+      "Auxiliar no desenvolvimento e teste de queries SQL",
+      "Aprender a programar rotinas de extração com Python e Pandas",
+      "Acompanhar pipelines em Apache Airflow",
+      "Participar de treinamentos em boas práticas de engenharia de dados"
+    ],
+    "requirements": [
+      {
+        "skill_id": "sql",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "git",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "postgresql",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "apache_airflow",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ai-001",
+    "title": "Engenheiro de IA Generativa & RAG Pleno",
+    "canonical_role": "ai_engineer",
+    "area": "ai_machine_learning",
+    "seniority": "pleno",
+    "company": "Cognitive AI Labs",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Desenvolver sistemas de RAG e agentes autônomos inteligentes utilizando LLMs e bancos de dados vetoriais.",
+    "responsibilities": [
+      "Projetar pipelines de ingestão de documentos e geração de embeddings",
+      "Implementar buscas semânticas em bancos vetoriais (Qdrant, Pinecone)",
+      "Construir aplicações e agentes com LangChain, LlamaIndex e FastAPI",
+      "Avaliar qualidade de recuperação e resposta com frameworks de evals"
+    ],
+    "requirements": [
+      {
+        "skill_id": "python",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "rag_architecture",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "vector_databases",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "langchain_llamaindex",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "llm_engineering",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "fastapi",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "model_evaluation",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ai-002",
+    "title": "Engenheiro de Machine Learning Pleno",
+    "canonical_role": "machine_learning_engineer",
+    "area": "ai_machine_learning",
+    "seniority": "pleno",
+    "company": "MarketPredict IA",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Desenvolver, treinar e colocar em produção modelos de Machine Learning para precificação e recomendação.",
+    "responsibilities": [
+      "Criar pipelines de pré-processamento de features com Scikit-Learn e Pandas",
+      "Treinar modelos de classificação e regressão supervisionada",
+      "Empacotar e expor modelos em APIs de inferência em tempo real",
+      "Rastrear experimentos com MLflow"
+    ],
+    "requirements": [
+      {
+        "skill_id": "python",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "scikit_learn",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "pandas",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "machine_learning",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "mlflow",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "fastapi",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ai-003",
+    "title": "Engenheiro de MLOps Sênior",
+    "canonical_role": "mlops_engineer",
+    "area": "ai_machine_learning",
+    "seniority": "senior",
+    "company": "Enterprise AI Cloud",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Liderar a infraestrutura de CI/CD para modelos de IA, servidores de inferência em Kubernetes e monitoramento de data drift.",
+    "responsibilities": [
+      "Projetar esteiras automatizadas de retreinamento contínuo de modelos",
+      "Gerenciar clusters de inferência escaláveis com Docker e Kubernetes",
+      "Monitorar degradação de performance e data drift em produção",
+      "Padronizar o catálogo de modelos com MLflow e registros corporativos"
+    ],
+    "requirements": [
+      {
+        "skill_id": "mlops_llmops",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "kubernetes",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "mlflow",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "cicd_pipelines",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "aws",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ai-004",
+    "title": "Cientista de Dados Júnior",
+    "canonical_role": "data_scientist",
+    "area": "ai_machine_learning",
+    "seniority": "junior",
+    "company": "HealthData Analytics",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Exploração de bases de dados, modelagem estatística e construção de hipóteses preditivas para o setor de saúde.",
+    "responsibilities": [
+      "Realizar análise exploratória de dados em Python e Pandas",
+      "Construir modelos estatísticos e preditivos com Scikit-Learn",
+      "Apresentar insights para equipes multidisciplinares",
+      "Criar gráficos e relatórios visuais claros dos achados"
+    ],
+    "requirements": [
+      {
+        "skill_id": "python",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "pandas",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "statistics",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "scikit_learn",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "data_visualization",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ai-005",
+    "title": "Cientista de Dados Sênior (Pricing & Churn)",
+    "canonical_role": "data_scientist",
+    "area": "ai_machine_learning",
+    "seniority": "senior",
+    "company": "Telecom Digital",
+    "location": "São Paulo, SP (Híbrido)",
+    "employment_type": "Tempo integral",
+    "description": "Liderança de projetos de ciência de dados de alto impacto financeiro, modelos de propensão, churn e precificação dinâmica.",
+    "responsibilities": [
+      "Conceber e validar modelos preditivos complexos e de aprendizado causal",
+      "Desenvolver testes A/B rigorosos para validação de impacto de modelos em negócios",
+      "Trabalhar em conjunto com a engenharia de dados para operacionalização de features",
+      "Comunicar resultados e estratégias para a diretoria C-Level"
+    ],
+    "requirements": [
+      {
+        "skill_id": "python",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "statistics",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "machine_learning",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "ab_testing",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "data_visualization",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "pyspark",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ai-006",
+    "title": "Engenheiro de NLP e Processamento de Texto Sênior",
+    "canonical_role": "nlp_cv_engineer",
+    "area": "ai_machine_learning",
+    "seniority": "senior",
+    "company": "LegalTech Inteligência",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Desenvolvimento de modelos avançados de NLP e Transformers para extração e análise de documentos jurídicos.",
+    "responsibilities": [
+      "Treinar e realizar fine-tuning de modelos Transformers com Hugging Face e PyTorch",
+      "Desenvolver algoritmos de Named Entity Recognition (NER) e classificação documental",
+      "Otimizar tempo de inferência e quantização de modelos de linguagem",
+      "Criar pipelines robustos de processamento textual em larga escala"
+    ],
+    "requirements": [
+      {
+        "skill_id": "nlp",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "hugging_face",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "pytorch",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "deep_learning",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "embeddings_vector_search",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ai-007",
+    "title": "Engenheiro de Visão Computacional Pleno",
+    "canonical_role": "nlp_cv_engineer",
+    "area": "ai_machine_learning",
+    "seniority": "pleno",
+    "company": "AgroTech Vision",
+    "location": "Campinas, SP (Híbrido)",
+    "employment_type": "Tempo integral",
+    "description": "Desenvolvimento de sistemas de detecção de objetos e segmentação de imagens para monitoramento agrícola.",
+    "responsibilities": [
+      "Treinar redes neurais convolucionais (CNNs) e modelos YOLO para detecção de pragas",
+      "Processar e aumentar dados de imagem com OpenCV e PyTorch",
+      "Implementar modelos otimizados para execução em dispositivos edge",
+      "Avaliar precisão (mAP, IoU) e velocidade de inferência"
+    ],
+    "requirements": [
+      {
+        "skill_id": "computer_vision",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "pytorch",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "deep_learning",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "numpy",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ai-008",
+    "title": "Especialista em Inteligência Artificial e Deep Learning",
+    "canonical_role": "ai_engineer",
+    "area": "ai_machine_learning",
+    "seniority": "especialista",
+    "company": "DeepMindset Brasil",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Liderança em pesquisa aplicada e arquitetura de modelos fundacionais avançados de IA para corporações globais.",
+    "responsibilities": [
+      "Definir a estratégia de pesquisa e desenvolvimento de IA aplicada da empresa",
+      "Orientar arquiteturas de treinamento distribuído de modelos profundos",
+      "Publicar e implementar inovações em IA generativa, agentes e raciocínio estruturado",
+      "Representar a empresa em conferências e fóruns de tecnologia de ponta"
+    ],
+    "requirements": [
+      {
+        "skill_id": "deep_learning",
+        "minimum_level": "especialista",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "pytorch",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "llm_engineering",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "rag_architecture",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "model_evaluation",
+        "minimum_level": "avancado",
+        "kind": "desired",
+        "weight": 3
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-ai-009",
+    "title": "Estágio em Ciência de Dados e Machine Learning",
+    "canonical_role": "data_scientist",
+    "area": "ai_machine_learning",
+    "seniority": "estagio",
+    "company": "DataHub Educação",
+    "location": "Remoto",
+    "employment_type": "Meio período",
+    "description": "Programa de estágio para formação de futuros cientistas e engenheiros de dados com mentoria.",
+    "responsibilities": [
+      "Aprender a manipular dados e criar gráficos em Python e Pandas",
+      "Auxiliar no pré-processamento de datasets para treinamento de modelos",
+      "Participar de sessões de estudo em matemática e estatística",
+      "Documentar experimentos e resultados obtidos"
+    ],
+    "requirements": [
+      {
+        "skill_id": "python",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "pandas",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "statistics",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "numpy",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "git",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-bi-001",
+    "title": "Analista de Business Intelligence Júnior (Power BI)",
+    "canonical_role": "bi_analyst",
+    "area": "data_analytics",
+    "seniority": "junior",
+    "company": "Varejo Brasil BI",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Construção e manutenção de relatórios gerenciais e dashboards operacionais no Power BI com consultas SQL.",
+    "responsibilities": [
+      "Desenvolver dashboards interativos no Microsoft Power BI",
+      "Escrever consultas SQL para extração de dados de bancos relacionais",
+      "Criar medidas calculadas em DAX de complexidade básica a intermediária",
+      "Validar dados com usuários de negócio e garantir atualização pontual dos relatórios"
+    ],
+    "requirements": [
+      {
+        "skill_id": "power_bi",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "excel_advanced",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "data_visualization",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "postgresql",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "dbt",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 1
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-bi-002",
+    "title": "Analista de Dados Pleno (SQL & Estatística)",
+    "canonical_role": "data_analyst",
+    "area": "data_analytics",
+    "seniority": "pleno",
+    "company": "Fintech Empréstimos",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Análise de comportamento de clientes, taxa de inadimplência e identificação de oportunidades de negócio.",
+    "responsibilities": [
+      "Extrair e analisar grandes bases relacionais com SQL avançado",
+      "Desenvolver estudos em Python/Pandas para análise de correlação e regressão",
+      "Apresentar recomendações táticas baseadas em dados para gestores de produto",
+      "Criar métricas e KPIs de acompanhamento de funil de conversão"
+    ],
+    "requirements": [
+      {
+        "skill_id": "sql",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "pandas",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "statistics",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "kpis_metrics_definition",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "power_bi",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "ab_testing",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-bi-003",
+    "title": "Analista de BI e Visualização de Dados Sênior (Tableau)",
+    "canonical_role": "bi_analyst",
+    "area": "data_analytics",
+    "seniority": "senior",
+    "company": "Consultoria Global Analytics",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Liderança de projetos de inteligência de negócios corporativa com Tableau e modelagem dimensional.",
+    "responsibilities": [
+      "Projetar dashboards executivos C-Level no Tableau com técnicas avançadas de storytelling",
+      "Definir arquitetura de dados e marts de dados com modelagem dimensional",
+      "Estruturar governança de métricas e certificação de painéis analíticos",
+      "Capacitar equipes de analistas juniores e plenos em boas práticas de visualização"
+    ],
+    "requirements": [
+      {
+        "skill_id": "tableau",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "data_visualization",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "data_warehouse",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "kpis_metrics_definition",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "snowflake",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "dbt",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-bi-004",
+    "title": "Analista de Produto e Growth Analytics Pleno",
+    "canonical_role": "product_analyst",
+    "area": "data_analytics",
+    "seniority": "pleno",
+    "company": "App de Mobilidade Urbana",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Análise aprofundada de aquisição, retenção, engajamento e execução de testes A/B no produto digital.",
+    "responsibilities": [
+      "Planejar, executar e analisar a significância estatística de testes A/B",
+      "Mapear jornadas de usuários e identificar pontos de atrito no funil",
+      "Construir queries analíticas em BigQuery / SQL",
+      "Desenvolver dashboards de cohort e retenção para gerentes de produto"
+    ],
+    "requirements": [
+      {
+        "skill_id": "sql",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "ab_testing",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "kpis_metrics_definition",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "statistics",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "exploratory_data_analysis",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "looker",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-bi-005",
+    "title": "Analista de Governança e Qualidade de Dados Pleno",
+    "canonical_role": "data_quality_analyst",
+    "area": "data_analytics",
+    "seniority": "pleno",
+    "company": "Seguros Brasil S.A.",
+    "location": "São Paulo, SP (Híbrido)",
+    "employment_type": "Tempo integral",
+    "description": "Garantir a conformidade, catalogação, linhagem e consistência de dados em toda a organização.",
+    "responsibilities": [
+      "Documentar glossário de negócios e dicionário de dados corporativo",
+      "Implementar regras e monitoramento contínuo de qualidade de dados",
+      "Realizar auditorias de privacidade (LGPD) e controle de acessos a dados sensíveis",
+      "Trabalhar com engenheiros de dados na correção de anomalias na origem"
+    ],
+    "requirements": [
+      {
+        "skill_id": "sql",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "data_quality_observability",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "data_warehouse",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "kpis_metrics_definition",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-bi-006",
+    "title": "Analista de Marketing Data & Analytics Pleno",
+    "canonical_role": "product_analyst",
+    "area": "data_analytics",
+    "seniority": "pleno",
+    "company": "E-Commerce Fashion",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Análise de performance de canais de mídia paga, CAC, LTV, ROI e modelagem de atribuição de marketing.",
+    "responsibilities": [
+      "Analisar eficiência de campanhas de mídia paga (Google Ads, Meta Ads)",
+      "Calcular métricas de CAC, LTV, ROAS e churn de clientes",
+      "Construir dashboards no Looker Studio e Power BI para a liderança de marketing",
+      "Executar análises de segmentação de base de clientes"
+    ],
+    "requirements": [
+      {
+        "skill_id": "sql",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "power_bi",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "excel_advanced",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "kpis_metrics_definition",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "data_visualization",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "statistics",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-bi-007",
+    "title": "Analista de Dados R & Estatística Pleno",
+    "canonical_role": "data_analyst",
+    "area": "data_analytics",
+    "seniority": "pleno",
+    "company": "BioResearch Analytics",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Aplicação de métodos estatísticos avançados, modelagem em R e análise experimental.",
+    "responsibilities": [
+      "Processar e analisar dados experimentais utilizando R e RStudio",
+      "Realizar testes estatísticos de hipóteses e modelos de regressão multivariada",
+      "Criar gráficos elegantes com ggplot2 para publicações técnicas",
+      "Validar consistência metodológica de experimentos"
+    ],
+    "requirements": [
+      {
+        "skill_id": "r_lang",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "statistics",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "exploratory_data_analysis",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "data_visualization",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-bi-008",
+    "title": "Especialista em Business Intelligence e Analytics",
+    "canonical_role": "bi_analyst",
+    "area": "data_analytics",
+    "seniority": "especialista",
+    "company": "Corporação Finanças Unidas",
+    "location": "São Paulo, SP (Híbrido)",
+    "employment_type": "Tempo integral",
+    "description": "Liderança corporativa em estratégia de BI, arquitetura semântica de dados e cultura Data-Driven.",
+    "responsibilities": [
+      "Liderar a estratégia de self-service BI para mais de 5.000 usuários corporativos",
+      "Definir a taxonomia única de indicadores e métricas financeiras da instituição",
+      "Selecionar e padronizar ferramentas de BI, camadas semânticas e governança",
+      "Mentorar e orientar a comunidade de analistas de negócios"
+    ],
+    "requirements": [
+      {
+        "skill_id": "power_bi",
+        "minimum_level": "especialista",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "data_warehouse",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "kpis_metrics_definition",
+        "minimum_level": "especialista",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "data_visualization",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "snowflake",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-bi-009",
+    "title": "Estágio em Business Intelligence & Analytics",
+    "canonical_role": "bi_analyst",
+    "area": "data_analytics",
+    "seniority": "estagio",
+    "company": "Portal InfoData",
+    "location": "Remoto",
+    "employment_type": "Meio período",
+    "description": "Estágio para desenvolvimento de habilidades em SQL, manipulação de planilhas e visualização no Power BI.",
+    "responsibilities": [
+      "Auxiliar na montagem e atualização de relatórios semanais",
+      "Aprender a escrever consultas SQL para extração de relatórios",
+      "Apoiar analistas na verificação de consistência de bases",
+      "Aprender práticas de design e usabilidade de relatórios"
+    ],
+    "requirements": [
+      {
+        "skill_id": "sql",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "excel_advanced",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "data_visualization",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "statistics",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "power_bi",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-prod-001",
+    "title": "Product Owner Júnior (Squad de Pagamentos)",
+    "canonical_role": "product_owner",
+    "area": "product",
+    "seniority": "junior",
+    "company": "Fintech PagFácil",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Atuar junto ao time de engenharia na gestão do backlog e especificação de histórias de usuário em pagamentos.",
+    "responsibilities": [
+      "Escrever e detalhar histórias de usuário com critérios de aceite claros",
+      "Priorizar e manter refinado o backlog da squad no Jira",
+      "Acompanhar rituais ágeis (Daily, Planning, Review e Retrospectiva)",
+      "Validar entregas do time de desenvolvimento antes do deploy em produção"
+    ],
+    "requirements": [
+      {
+        "skill_id": "scrum_kanban",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "backlog_management",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "jira",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "requirements_gathering",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "product_discovery",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-prod-002",
+    "title": "Product Manager Pleno (B2B SaaS)",
+    "canonical_role": "product_manager",
+    "area": "product",
+    "seniority": "pleno",
+    "company": "WorkFlow Hub",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Liderar a estratégia, discovery contínuo e roadmap de produto de uma solução SaaS B2B em rápida expansão.",
+    "responsibilities": [
+      "Conduzir processos de discovery contínuo com clientes e stakeholders",
+      "Elaborar e comunicar o roadmap de produto alinhado aos objetivos de negócio (OKRs)",
+      "Definir e acompanhar métricas de adoção, engajamento e retenção de funcionalidades",
+      "Colaborar estreitamente com times de Engenharia, UX e Vendas"
+    ],
+    "requirements": [
+      {
+        "skill_id": "product_discovery",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "product_roadmap",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "product_metrics_okrs",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "scrum_kanban",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "user_research",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "prototyping_figma",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-prod-003",
+    "title": "Technical Product Manager Sênior (Plataforma & APIs)",
+    "canonical_role": "product_manager",
+    "area": "product",
+    "seniority": "senior",
+    "company": "API Grid Brasil",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Gerenciar produtos de plataforma técnica, APIs públicas para desenvolvedores e ecossistema de integrações.",
+    "responsibilities": [
+      "Definir a visão de produto e developer experience para serviços de API",
+      "Compreender trade-offs arquiteturais técnicos e traduzir em requisitos funcionais",
+      "Alinhar roadmap técnico com parceiros corporativos e líderes de engenharia",
+      "Acompanhar métricas de latência, disponibilidade e tempo de integração de desenvolvedores"
+    ],
+    "requirements": [
+      {
+        "skill_id": "product_roadmap",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "product_discovery",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "rest_apis",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "microservices",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "product_metrics_okrs",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "business_strategy",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-prod-004",
+    "title": "Analista de Negócios e Requisitos Pleno",
+    "canonical_role": "business_analyst",
+    "area": "product",
+    "seniority": "pleno",
+    "company": "Banco Corporativo Invest",
+    "location": "São Paulo, SP (Híbrido)",
+    "employment_type": "Tempo integral",
+    "description": "Mapeamento de processos operacionais, levantamento de requisitos com áreas de negócio e especificação funcional.",
+    "responsibilities": [
+      "Mapear processos de negócios atuais (As-Is) e desenhar processos futuros (To-Be)",
+      "Elicitar e documentar requisitos de negócio detalhados com stakeholders",
+      "Intermediar o alinhamento entre áreas operacionais e time de TI",
+      "Auxiliar no planejamento de testes de homologação com usuários (UAT)"
+    ],
+    "requirements": [
+      {
+        "skill_id": "requirements_gathering",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "jira",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "scrum_kanban",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "backlog_management",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "business_strategy",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-prod-005",
+    "title": "Analista de Product Operations (Product Ops) Pleno",
+    "canonical_role": "product_ops",
+    "area": "product",
+    "seniority": "pleno",
+    "company": "SuperApp Brasil",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Otimizar processos internos de produto, ferramentas de gestão, comunicação entre squads e governança de dados.",
+    "responsibilities": [
+      "Padronizar rituais de governança e ferramentas (Jira, Confluence, Amplitude)",
+      "Garantir a fluidez de dados qualitativos e quantitativos para tomadas de decisão de PMs",
+      "Criar programas de treinamento e onboarding para novos membros da área de produto",
+      "Monitorar eficiência operacional e cadência de lançamentos"
+    ],
+    "requirements": [
+      {
+        "skill_id": "jira",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "scrum_kanban",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "product_metrics_okrs",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "data_visualization",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-prod-006",
+    "title": "Product Owner Sênior (Plataforma Mobile)",
+    "canonical_role": "product_owner",
+    "area": "product",
+    "seniority": "senior",
+    "company": "E-Commerce Mobile",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Liderança de backlog e visão tática em squad focada em aplicativos móveis de alta transacionalidade.",
+    "responsibilities": [
+      "Gerenciar o backlog de múltiplos times de engenharia mobile",
+      "Conduzir refinamentos técnicos com arquitetos e líderes de desenvolvimento",
+      "Alinhar expectativas com executivos de negócio e áreas comerciais",
+      "Garantir entregas contínuas com alto padrão de qualidade e baixa taxa de bugs"
+    ],
+    "requirements": [
+      {
+        "skill_id": "backlog_management",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "scrum_kanban",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "jira",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "product_metrics_okrs",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "user_research",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "prototyping_figma",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-prod-007",
+    "title": "Group Product Manager (GPM) / Especialista de Produto",
+    "canonical_role": "product_manager",
+    "area": "product",
+    "seniority": "especialista",
+    "company": "Unicórnio Tech",
+    "location": "São Paulo, SP (Híbrido)",
+    "employment_type": "Tempo integral",
+    "description": "Liderar a estratégia holística de produto de uma unidade de negócios completa e mentorar outros PMs.",
+    "responsibilities": [
+      "Definir a estratégia plurianual de portfólio de produtos e modelos de receita",
+      "Estruturar OKRs estratégicos alinhados ao conselho executivo",
+      "Mentorar, capacitar e avaliar gerentes de produto de múltiplas squads",
+      "Identificar oportunidades de M&A e expansão internacional de mercado"
+    ],
+    "requirements": [
+      {
+        "skill_id": "product_roadmap",
+        "minimum_level": "especialista",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "business_strategy",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "product_metrics_okrs",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "product_discovery",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "user_research",
+        "minimum_level": "avancado",
+        "kind": "desired",
+        "weight": 3
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-prod-008",
+    "title": "Product Designer & Discovery Analyst Júnior",
+    "canonical_role": "product_manager",
+    "area": "product",
+    "seniority": "junior",
+    "company": "Studio Digital Lab",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Atuação em prototipagem, apoio em entrevistas de usuários e documentação de jornadas de produto.",
+    "responsibilities": [
+      "Elaborar wireframes e protótipos interativos no Figma",
+      "Auxiliar no agendamento e condução de pesquisas com usuários",
+      "Documentar feedbacks de clientes e oportunidades de melhoria",
+      "Acompanhar reuniões de refinamento com o time de engenharia"
+    ],
+    "requirements": [
+      {
+        "skill_id": "prototyping_figma",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "user_research",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "product_discovery",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "scrum_kanban",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "jira",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-prod-009",
+    "title": "Estágio em Gestão de Produtos Digitais",
+    "canonical_role": "product_manager",
+    "area": "product",
+    "seniority": "estagio",
+    "company": "TechInovação Brasil",
+    "location": "Remoto",
+    "employment_type": "Meio período",
+    "description": "Estágio prático com vivência em rituais ágeis, levantamento de dados de uso e suporte aos Product Managers.",
+    "responsibilities": [
+      "Apoiar o time na elaboração de atas, documentações e especificações no Confluence",
+      "Aprender metodologias de Discovery e acompanhamento de métricas de produto",
+      "Acompanhar o ciclo de vida de histórias de usuário no Jira",
+      "Participar de sessões de feedback de clientes"
+    ],
+    "requirements": [
+      {
+        "skill_id": "scrum_kanban",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "jira",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "requirements_gathering",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "backlog_management",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-qa-001",
+    "title": "Analista de Qualidade e Testes Manuais Júnior",
+    "canonical_role": "qa_analyst_manual",
+    "area": "qa_testing",
+    "seniority": "junior",
+    "company": "QualiSoftware Brasil",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Execução criteriosa de testes funcionais, elaboração de cenários de teste e reporte detalhado de bugs.",
+    "responsibilities": [
+      "Elaborar e executar planos e casos de testes funcionais",
+      "Reportar bugs com evidências claras, passos de reprodução e logs no Jira",
+      "Realizar testes exploratórios e testes de regressão antes dos lançamentos",
+      "Validar critérios de aceite junto aos desenvolvedores e POs"
+    ],
+    "requirements": [
+      {
+        "skill_id": "manual_testing",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "test_case_design",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "jira",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "scrum_kanban",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "postman_newman",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-qa-002",
+    "title": "Engenheiro de Automação de Testes Pleno (Cypress & Web)",
+    "canonical_role": "qa_automation_engineer",
+    "area": "qa_testing",
+    "seniority": "pleno",
+    "company": "E-Commerce Plataforma",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Construir e evoluir suítes de testes automatizados E2E e de integração para aplicações web modernas.",
+    "responsibilities": [
+      "Desenvolver testes automatizados E2E utilizando Cypress e JavaScript/TypeScript",
+      "Integrar a execução dos testes na esteira de CI/CD (GitHub Actions)",
+      "Garantir a estabilidade e evitar testes flutuantes (flaky tests)",
+      "Trabalhar em estreita colaboração com desenvolvedores frontend"
+    ],
+    "requirements": [
+      {
+        "skill_id": "cypress",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "javascript",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "automated_testing",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "cicd_pipelines",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "git",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "typescript",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "api_testing",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-qa-003",
+    "title": "SDET / Engenheiro de Automação de Testes Sênior (Playwright)",
+    "canonical_role": "qa_automation_engineer",
+    "area": "qa_testing",
+    "seniority": "senior",
+    "company": "Fintech Global Services",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Definir a arquitetura dos frameworks de automação de testes em larga escala para aplicações distribuídas.",
+    "responsibilities": [
+      "Arquitetar frameworks de testes automatizados modulares com Playwright e TypeScript",
+      "Desenvolver testes de contrato e integração de APIs em microsserviços",
+      "Otimizar tempo de execução paralela de testes na esteira de CI/CD",
+      "Mentorar outros QAs em boas práticas de engenharia de software e testes"
+    ],
+    "requirements": [
+      {
+        "skill_id": "playwright",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "typescript",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "automated_testing",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "api_testing",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "cicd_pipelines",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "k6",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-qa-004",
+    "title": "Analista de Testes de API e Backend Pleno (Postman / REST Assured)",
+    "canonical_role": "qa_automation_engineer",
+    "area": "qa_testing",
+    "seniority": "pleno",
+    "company": "Gateway de Pagamentos",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Foco dedicado na validação funcional, segurança e integração contínua de APIs financeiras críticas.",
+    "responsibilities": [
+      "Construir coleções automatizadas de testes de API no Postman e Newman",
+      "Desenvolver testes automatizados em Java com REST Assured",
+      "Validar schemas JSON, códigos de resposta HTTP e fluxos de autenticação OAuth/JWT",
+      "Executar testes de regressão de endpoints em esteiras de integração contínua"
+    ],
+    "requirements": [
+      {
+        "skill_id": "postman_newman",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "rest_apis",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "api_testing",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "java",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "rest_assured",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "git",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "sql",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-qa-005",
+    "title": "Engenheiro de Testes de Performance e Carga Pleno (k6 / JMeter)",
+    "canonical_role": "performance_qa_engineer",
+    "area": "qa_testing",
+    "seniority": "pleno",
+    "company": "Eventos & Ticketing BR",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Planejar e executar testes de carga, estresse e escalabilidade para eventos de venda massiva de ingressos.",
+    "responsibilities": [
+      "Modelar perfis de carga e tráfego esperados para grandes eventos",
+      "Desenvolver scripts de teste de estresse em Grafana k6 e Apache JMeter",
+      "Identificar gargalos de CPU, memória, concorrência e consultas lentas a bancos de dados",
+      "Apresentar relatórios de performance com recomendações de otimização"
+    ],
+    "requirements": [
+      {
+        "skill_id": "k6",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "jmeter",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "performance_testing",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "rest_apis",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "javascript",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "prometheus",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "grafana",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-qa-006",
+    "title": "Analista de QA Mobile Pleno (Appium / iOS & Android)",
+    "canonical_role": "mobile_qa_engineer",
+    "area": "qa_testing",
+    "seniority": "pleno",
+    "company": "Mobile Health App",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Garantir a qualidade de aplicativos móveis através de testes manuais exploratórios e automação com Appium.",
+    "responsibilities": [
+      "Desenvolver testes automatizados para iOS e Android com Appium",
+      "Executar testes em dispositivos físicos e em fazendas de dispositivos em nuvem",
+      "Validar consumo de bateria, comportamento offline e permissões de sistema operacional",
+      "Acompanhar relatórios de crash e feedback de usuários nas lojas de aplicativos"
+    ],
+    "requirements": [
+      {
+        "skill_id": "appium",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "android_native",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "ios_native",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "automated_testing",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "manual_testing",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-qa-007",
+    "title": "Engenheiro de QA de Dados e Pipelines Pleno",
+    "canonical_role": "data_qa_engineer",
+    "area": "qa_testing",
+    "seniority": "pleno",
+    "company": "DataTrust Analytics",
+    "location": "Remoto",
+    "employment_type": "Tempo integral",
+    "description": "Garantir a acurácia, consistência e confiabilidade de dados trafegados em pipelines analíticos de grande porte.",
+    "responsibilities": [
+      "Construir testes de regressão e validação em pipelines de dados",
+      "Implementar testes automatizados de dados com Great Expectations e SQL",
+      "Validar transformações em Data Warehouses e Lakehouses",
+      "Criar alertas de anomalias volumétricas e inconsistências de schema"
+    ],
+    "requirements": [
+      {
+        "skill_id": "sql",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "data_quality_observability",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "pytest",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "dbt",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      },
+      {
+        "skill_id": "apache_airflow",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-qa-008",
+    "title": "Especialista em Engenharia de Qualidade de Software (Quality Lead)",
+    "canonical_role": "qa_automation_engineer",
+    "area": "qa_testing",
+    "seniority": "especialista",
+    "company": "Tech Global Brasil",
+    "location": "São Paulo, SP (Híbrido)",
+    "employment_type": "Tempo integral",
+    "description": "Definir a estratégia corporativa de qualidade, pirâmide de testes e cultura de Shift-Left Testing para dezenas de squads.",
+    "responsibilities": [
+      "Definir padrões corporativos de qualidade e governança da esteira de testes",
+      "Liderar a adoção de testes contínuos e shift-left testing nas equipes de desenvolvimento",
+      "Avaliar métricas de escape de defeitos, cobertura e tempo de ciclo de testes",
+      "Mentorar capítulos de QA e promover a formação de novos SDETs"
+    ],
+    "requirements": [
+      {
+        "skill_id": "automated_testing",
+        "minimum_level": "especialista",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "cicd_pipelines",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 5
+      },
+      {
+        "skill_id": "playwright",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "performance_testing",
+        "minimum_level": "avancado",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "security_testing_owasp",
+        "minimum_level": "intermediario",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "docker",
+        "minimum_level": "intermediario",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  },
+  {
+    "id": "job-qa-009",
+    "title": "Estágio em Testes e Garantia de Qualidade de Software",
+    "canonical_role": "qa_analyst_manual",
+    "area": "qa_testing",
+    "seniority": "estagio",
+    "company": "Laboratório de Software Aberto",
+    "location": "Remoto",
+    "employment_type": "Meio período",
+    "description": "Estágio prático com aprendizado de testes manuais funcionais, redação de bugs e introdução à automação.",
+    "responsibilities": [
+      "Aprender a executar roteiros de testes manuais em sistemas web",
+      "Documentar bugs encontrados com evidências e passos de reprodução",
+      "Apoiar analistas sêniores na validação de novas funcionalidades",
+      "Introdução aos primeiros passos com automação em Python/Pytest ou Cypress"
+    ],
+    "requirements": [
+      {
+        "skill_id": "manual_testing",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "test_case_design",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 4
+      },
+      {
+        "skill_id": "git",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "jira",
+        "minimum_level": "basico",
+        "kind": "required",
+        "weight": 3
+      },
+      {
+        "skill_id": "python",
+        "minimum_level": "basico",
+        "kind": "desired",
+        "weight": 2
+      }
+    ],
+    "source": "synthetic"
+  }
+]

@@ -1,0 +1,896 @@
+{
+  "areas": {
+    "software_development": "Desenvolvimento de Software",
+    "devops_platform": "DevOps, SRE e Plataforma",
+    "data_engineering": "Engenharia de Dados",
+    "ai_machine_learning": "Inteligência Artificial e Machine Learning",
+    "data_analytics": "Análise de Dados e Business Intelligence",
+    "product": "Produto",
+    "qa_testing": "Qualidade de Software e Testes"
+  },
+  "roles": [
+    {
+      "id": "backend_developer",
+      "name": "Desenvolvedor Backend",
+      "area": "software_development",
+      "aliases": [
+        "desenvolvedor backend",
+        "backend developer",
+        "backend engineer",
+        "engenheiro backend",
+        "software engineer backend",
+        "programador backend",
+        "desenvolvedora backend"
+      ],
+      "allowed_seniorities": [
+        "estagio",
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "backend",
+        "api",
+        "serviços",
+        "microsserviços",
+        "banco de dados",
+        "servidor"
+      ]
+    },
+    {
+      "id": "software_engineer",
+      "name": "Engenheiro de Software",
+      "area": "software_development",
+      "aliases": [
+        "engenheiro de software",
+        "software engineer",
+        "engenheira de software",
+        "software developer",
+        "desenvolvedor de software"
+      ],
+      "allowed_seniorities": [
+        "estagio",
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "software",
+        "engenharia",
+        "arquitetura",
+        "sistemas",
+        "código"
+      ]
+    },
+    {
+      "id": "frontend_developer",
+      "name": "Desenvolvedor Frontend",
+      "area": "software_development",
+      "aliases": [
+        "desenvolvedor frontend",
+        "frontend developer",
+        "frontend engineer",
+        "engenheiro frontend",
+        "desenvolvedor front-end",
+        "front-end developer"
+      ],
+      "allowed_seniorities": [
+        "estagio",
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "frontend",
+        "interface",
+        "ui",
+        "web",
+        "react",
+        "componentes"
+      ]
+    },
+    {
+      "id": "fullstack_developer",
+      "name": "Desenvolvedor Full Stack",
+      "area": "software_development",
+      "aliases": [
+        "desenvolvedor full stack",
+        "full stack developer",
+        "fullstack engineer",
+        "engenheiro full stack",
+        "full stack engineer",
+        "desenvolvedor fullstack"
+      ],
+      "allowed_seniorities": [
+        "estagio",
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "full stack",
+        "fullstack",
+        "end-to-end",
+        "web",
+        "backend",
+        "frontend"
+      ]
+    },
+    {
+      "id": "mobile_developer",
+      "name": "Desenvolvedor Mobile",
+      "area": "software_development",
+      "aliases": [
+        "desenvolvedor mobile",
+        "mobile developer",
+        "mobile engineer",
+        "android developer",
+        "ios developer",
+        "desenvolvedor android",
+        "desenvolvedor ios",
+        "desenvolvedor flutter"
+      ],
+      "allowed_seniorities": [
+        "estagio",
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "mobile",
+        "aplicativo",
+        "android",
+        "ios",
+        "flutter",
+        "react native"
+      ]
+    },
+    {
+      "id": "api_integration_developer",
+      "name": "Desenvolvedor de Integrações",
+      "area": "software_development",
+      "aliases": [
+        "api developer",
+        "integration engineer",
+        "desenvolvedor de integrações",
+        "engenheiro de integração",
+        "desenvolvedor api"
+      ],
+      "allowed_seniorities": [
+        "junior",
+        "pleno",
+        "senior"
+      ],
+      "context_keywords": [
+        "api",
+        "integração",
+        "rest",
+        "graphql",
+        "gateways",
+        "microsserviços"
+      ]
+    },
+    {
+      "id": "devops_engineer",
+      "name": "Engenheiro DevOps",
+      "area": "devops_platform",
+      "aliases": [
+        "devops engineer",
+        "engenheiro devops",
+        "analista devops",
+        "devops analyst",
+        "especialista devops"
+      ],
+      "allowed_seniorities": [
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "devops",
+        "ci/cd",
+        "automação",
+        "infraestrutura",
+        "deploy",
+        "pipeline"
+      ]
+    },
+    {
+      "id": "sre_engineer",
+      "name": "Site Reliability Engineer (SRE)",
+      "area": "devops_platform",
+      "aliases": [
+        "site reliability engineer",
+        "sre",
+        "sre engineer",
+        "engenheiro de confiabilidade",
+        "engenheiro sre"
+      ],
+      "allowed_seniorities": [
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "sre",
+        "confiabilidade",
+        "slo",
+        "sla",
+        "incidentes",
+        "observabilidade",
+        "resiliência"
+      ]
+    },
+    {
+      "id": "platform_engineer",
+      "name": "Engenheiro de Plataforma",
+      "area": "devops_platform",
+      "aliases": [
+        "platform engineer",
+        "engenheiro de plataforma",
+        "analista de plataforma",
+        "cloud platform engineer"
+      ],
+      "allowed_seniorities": [
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "plataforma",
+        "developer experience",
+        "kubernetes",
+        "infraestrutura interna"
+      ]
+    },
+    {
+      "id": "cloud_infrastructure_engineer",
+      "name": "Engenheiro Cloud e Infraestrutura",
+      "area": "devops_platform",
+      "aliases": [
+        "cloud engineer",
+        "infrastructure engineer",
+        "engenheiro cloud",
+        "engenheiro de infraestrutura",
+        "analista de infraestrutura",
+        "cloud infrastructure engineer"
+      ],
+      "allowed_seniorities": [
+        "estagio",
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "cloud",
+        "nuvem",
+        "aws",
+        "gcp",
+        "azure",
+        "redes",
+        "servidores",
+        "terraform"
+      ]
+    },
+    {
+      "id": "observability_engineer",
+      "name": "Engenheiro de Observabilidade",
+      "area": "devops_platform",
+      "aliases": [
+        "observability engineer",
+        "engenheiro de observabilidade",
+        "monitoring engineer",
+        "analista de observabilidade"
+      ],
+      "allowed_seniorities": [
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "observabilidade",
+        "métricas",
+        "logs",
+        "tracing",
+        "prometheus",
+        "grafana"
+      ]
+    },
+    {
+      "id": "devsecops_engineer",
+      "name": "Engenheiro DevSecOps",
+      "area": "devops_platform",
+      "aliases": [
+        "devsecops engineer",
+        "engenheiro devsecops",
+        "security devops engineer",
+        "analista devsecops"
+      ],
+      "allowed_seniorities": [
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "devsecops",
+        "segurança",
+        "vulnerabilidades",
+        "compliance",
+        "automação de segurança"
+      ]
+    },
+    {
+      "id": "data_engineer",
+      "name": "Engenheiro de Dados",
+      "area": "data_engineering",
+      "aliases": [
+        "data engineer",
+        "engenheiro de dados",
+        "engenheira de dados",
+        "desenvolvedor de dados",
+        "data engineering specialist"
+      ],
+      "allowed_seniorities": [
+        "estagio",
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "pipeline de dados",
+        "etl",
+        "data warehouse",
+        "airflow",
+        "sql",
+        "spark"
+      ]
+    },
+    {
+      "id": "analytics_engineer",
+      "name": "Analytics Engineer",
+      "area": "data_engineering",
+      "aliases": [
+        "analytics engineer",
+        "engenheiro de analytics",
+        "engenheira de analytics",
+        "data transformation engineer"
+      ],
+      "allowed_seniorities": [
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "dbt",
+        "transformação",
+        "modelagem dimensional",
+        "sql",
+        "data warehouse"
+      ]
+    },
+    {
+      "id": "data_platform_engineer",
+      "name": "Engenheiro de Plataforma de Dados",
+      "area": "data_engineering",
+      "aliases": [
+        "data platform engineer",
+        "engenheiro de plataforma de dados",
+        "lakehouse engineer",
+        "big data engineer"
+      ],
+      "allowed_seniorities": [
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "data platform",
+        "lakehouse",
+        "spark",
+        "iceberg",
+        "delta lake",
+        "databricks"
+      ]
+    },
+    {
+      "id": "streaming_data_engineer",
+      "name": "Engenheiro de Streaming e Tempo Real",
+      "area": "data_engineering",
+      "aliases": [
+        "streaming data engineer",
+        "real time data engineer",
+        "engenheiro de dados em tempo real",
+        "kafka engineer"
+      ],
+      "allowed_seniorities": [
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "streaming",
+        "kafka",
+        "flink",
+        "tempo real",
+        "eventos",
+        "mensageria"
+      ]
+    },
+    {
+      "id": "etl_developer",
+      "name": "Desenvolvedor ETL / Integração de Dados",
+      "area": "data_engineering",
+      "aliases": [
+        "etl developer",
+        "desenvolvedor etl",
+        "data integration engineer",
+        "analista de etl"
+      ],
+      "allowed_seniorities": [
+        "estagio",
+        "junior",
+        "pleno",
+        "senior"
+      ],
+      "context_keywords": [
+        "etl",
+        "elt",
+        "ingestão",
+        "integração",
+        "pipelines",
+        "sql"
+      ]
+    },
+    {
+      "id": "ai_engineer",
+      "name": "Engenheiro de IA",
+      "area": "ai_machine_learning",
+      "aliases": [
+        "ai engineer",
+        "engenheiro de ia",
+        "engenheira de ia",
+        "artificial intelligence engineer",
+        "llm engineer",
+        "rag engineer"
+      ],
+      "allowed_seniorities": [
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "inteligência artificial",
+        "llm",
+        "rag",
+        "langchain",
+        "embeddings",
+        "vetores"
+      ]
+    },
+    {
+      "id": "machine_learning_engineer",
+      "name": "Engenheiro de Machine Learning",
+      "area": "ai_machine_learning",
+      "aliases": [
+        "machine learning engineer",
+        "ml engineer",
+        "engenheiro de machine learning",
+        "engenheiro de ml"
+      ],
+      "allowed_seniorities": [
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "machine learning",
+        "modelos",
+        "scikit-learn",
+        "pytorch",
+        "treinamento",
+        "inferência"
+      ]
+    },
+    {
+      "id": "mlops_engineer",
+      "name": "Engenheiro de MLOps / LLMOps",
+      "area": "ai_machine_learning",
+      "aliases": [
+        "mlops engineer",
+        "engenheiro de mlops",
+        "llmops engineer",
+        "ai platform engineer"
+      ],
+      "allowed_seniorities": [
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "mlops",
+        "llmops",
+        "mlflow",
+        "deploy de modelos",
+        "monitoramento de ia"
+      ]
+    },
+    {
+      "id": "data_scientist",
+      "name": "Cientista de Dados",
+      "area": "ai_machine_learning",
+      "aliases": [
+        "data scientist",
+        "cientista de dados",
+        "cientista de dados sênior",
+        "applied scientist"
+      ],
+      "allowed_seniorities": [
+        "estagio",
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "estatística",
+        "machine learning",
+        "ciência de dados",
+        "análise preditiva",
+        "python"
+      ]
+    },
+    {
+      "id": "nlp_cv_engineer",
+      "name": "Engenheiro de NLP e Visão Computacional",
+      "area": "ai_machine_learning",
+      "aliases": [
+        "nlp engineer",
+        "computer vision engineer",
+        "engenheiro de processamento de linguagem natural",
+        "engenheiro de visão computacional"
+      ],
+      "allowed_seniorities": [
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "nlp",
+        "transformers",
+        "hugging face",
+        "visão computacional",
+        "deep learning"
+      ]
+    },
+    {
+      "id": "data_analyst",
+      "name": "Analista de Dados",
+      "area": "data_analytics",
+      "aliases": [
+        "data analyst",
+        "analista de dados",
+        "analista de dados júnior",
+        "analytics analyst",
+        "operations analyst"
+      ],
+      "allowed_seniorities": [
+        "estagio",
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "análise de dados",
+        "insights",
+        "sql",
+        "relatórios",
+        "métricas",
+        "exploratória"
+      ]
+    },
+    {
+      "id": "bi_analyst",
+      "name": "Analista de Business Intelligence",
+      "area": "data_analytics",
+      "aliases": [
+        "bi analyst",
+        "analista de bi",
+        "business intelligence analyst",
+        "consultor de bi",
+        "especialista em bi"
+      ],
+      "allowed_seniorities": [
+        "estagio",
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "dashboards",
+        "power bi",
+        "tableau",
+        "kpis",
+        "indicadores",
+        "modelagem dimensional"
+      ]
+    },
+    {
+      "id": "product_analyst",
+      "name": "Analista de Produto / Growth Analytics",
+      "area": "data_analytics",
+      "aliases": [
+        "product analyst",
+        "analista de produto",
+        "growth analyst",
+        "marketing data analyst"
+      ],
+      "allowed_seniorities": [
+        "junior",
+        "pleno",
+        "senior"
+      ],
+      "context_keywords": [
+        "funil",
+        "retenção",
+        "testes a/b",
+        "engajamento",
+        "comportamento do usuário"
+      ]
+    },
+    {
+      "id": "data_quality_analyst",
+      "name": "Analista de Governança e Qualidade de Dados",
+      "area": "data_analytics",
+      "aliases": [
+        "data quality analyst",
+        "analista de governança de dados",
+        "data steward",
+        "data governance analyst"
+      ],
+      "allowed_seniorities": [
+        "junior",
+        "pleno",
+        "senior"
+      ],
+      "context_keywords": [
+        "qualidade de dados",
+        "governança",
+        "catálogo de dados",
+        "conformidade",
+        "linhagem"
+      ]
+    },
+    {
+      "id": "product_owner",
+      "name": "Product Owner",
+      "area": "product",
+      "aliases": [
+        "product owner",
+        "po",
+        "dono do produto",
+        "technical product owner"
+      ],
+      "allowed_seniorities": [
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "backlog",
+        "histórias de usuário",
+        "scrum",
+        "sprints",
+        "requisitos"
+      ]
+    },
+    {
+      "id": "product_manager",
+      "name": "Product Manager",
+      "area": "product",
+      "aliases": [
+        "product manager",
+        "pm",
+        "gerente de produto",
+        "technical product manager",
+        "group product manager"
+      ],
+      "allowed_seniorities": [
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "visão de produto",
+        "roadmap",
+        "discovery",
+        "estratégia",
+        "okrs",
+        "mercado"
+      ]
+    },
+    {
+      "id": "business_analyst",
+      "name": "Analista de Negócios / Requisitos",
+      "area": "product",
+      "aliases": [
+        "business analyst",
+        "analista de negócios",
+        "analista de requisitos",
+        "analista funcional"
+      ],
+      "allowed_seniorities": [
+        "estagio",
+        "junior",
+        "pleno",
+        "senior"
+      ],
+      "context_keywords": [
+        "processos",
+        "regras de negócio",
+        "especificação",
+        "stakeholders",
+        "documentação"
+      ]
+    },
+    {
+      "id": "product_ops",
+      "name": "Product Operations",
+      "area": "product",
+      "aliases": [
+        "product operations",
+        "product ops",
+        "analista de product ops"
+      ],
+      "allowed_seniorities": [
+        "junior",
+        "pleno",
+        "senior"
+      ],
+      "context_keywords": [
+        "operações de produto",
+        "processos de produto",
+        "eficiência",
+        "ferramentas de produto"
+      ]
+    },
+    {
+      "id": "qa_automation_engineer",
+      "name": "Engenheiro de Automação de Testes / SDET",
+      "area": "qa_testing",
+      "aliases": [
+        "qa automation engineer",
+        "sdet",
+        "software development engineer in test",
+        "engenheiro de automação de testes",
+        "automation qa",
+        "analista de testes automatizados"
+      ],
+      "allowed_seniorities": [
+        "junior",
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "automação",
+        "cypress",
+        "playwright",
+        "selenium",
+        "framework de testes",
+        "ci/cd"
+      ]
+    },
+    {
+      "id": "qa_analyst_manual",
+      "name": "Analista de Qualidade e Testes Manuais",
+      "area": "qa_testing",
+      "aliases": [
+        "qa analyst",
+        "analista de qa",
+        "analista de testes",
+        "software tester",
+        "quality assurance analyst",
+        "test analyst"
+      ],
+      "allowed_seniorities": [
+        "estagio",
+        "junior",
+        "pleno",
+        "senior"
+      ],
+      "context_keywords": [
+        "casos de teste",
+        "testes exploratórios",
+        "bugs",
+        "qualidade",
+        "critérios de aceite"
+      ]
+    },
+    {
+      "id": "performance_qa_engineer",
+      "name": "Engenheiro de Testes de Performance e Carga",
+      "area": "qa_testing",
+      "aliases": [
+        "performance test engineer",
+        "engenheiro de testes de performance",
+        "performance qa",
+        "load test engineer"
+      ],
+      "allowed_seniorities": [
+        "pleno",
+        "senior",
+        "especialista"
+      ],
+      "context_keywords": [
+        "performance",
+        "carga",
+        "estresse",
+        "jmeter",
+        "k6",
+        "latência",
+        "escalabilidade"
+      ]
+    },
+    {
+      "id": "mobile_qa_engineer",
+      "name": "Analista de QA Mobile",
+      "area": "qa_testing",
+      "aliases": [
+        "mobile qa",
+        "mobile test engineer",
+        "analista de testes mobile",
+        "qa mobile engineer"
+      ],
+      "allowed_seniorities": [
+        "junior",
+        "pleno",
+        "senior"
+      ],
+      "context_keywords": [
+        "mobile",
+        "appium",
+        "ios",
+        "android",
+        "emuladores",
+        "dispositivos reais"
+      ]
+    },
+    {
+      "id": "data_qa_engineer",
+      "name": "Engenheiro de QA de Dados",
+      "area": "qa_testing",
+      "aliases": [
+        "data qa engineer",
+        "data test engineer",
+        "engenheiro de qualidade de dados",
+        "data quality test engineer"
+      ],
+      "allowed_seniorities": [
+        "junior",
+        "pleno",
+        "senior"
+      ],
+      "context_keywords": [
+        "qualidade de dados",
+        "testes de pipeline",
+        "validação de dados",
+        "great expectations",
+        "sql"
+      ]
+    }
+  ]
+}

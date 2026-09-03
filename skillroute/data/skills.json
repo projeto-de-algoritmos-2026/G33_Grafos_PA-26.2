@@ -1,0 +1,1770 @@
+[
+  {
+    "id": "python",
+    "name": "Python",
+    "aliases": [
+      "python3",
+      "py"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "data_engineering",
+      "ai_machine_learning",
+      "data_analytics",
+      "qa_testing"
+    ],
+    "description": "Linguagem de programação de alto nível, interpretada e multiparadigma."
+  },
+  {
+    "id": "django",
+    "name": "Django",
+    "aliases": [
+      "django framework"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Framework web Python de alto nível com arquitetura batteries-included."
+  },
+  {
+    "id": "flask",
+    "name": "Flask",
+    "aliases": [
+      "flask framework"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Microframework web em Python flexível e modular."
+  },
+  {
+    "id": "fastapi",
+    "name": "FastAPI",
+    "aliases": [
+      "fast-api"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "ai_machine_learning"
+    ],
+    "description": "Framework web moderno e assíncrono para construção de APIs em Python com tipagem."
+  },
+  {
+    "id": "java",
+    "name": "Java",
+    "aliases": [
+      "java core",
+      "java 17",
+      "java 21"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "data_engineering",
+      "qa_testing"
+    ],
+    "description": "Linguagem orientada a objetos compilada para bytecode JVM e amplamente usada no ecossistema enterprise."
+  },
+  {
+    "id": "spring_boot",
+    "name": "Spring Boot",
+    "aliases": [
+      "spring",
+      "springboot",
+      "spring framework"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Framework para criação de aplicações Java autônomas e microsserviços."
+  },
+  {
+    "id": "javascript",
+    "name": "JavaScript",
+    "aliases": [
+      "js",
+      "es6",
+      "ecmascript"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "qa_testing"
+    ],
+    "description": "Linguagem dinâmica essencial da web para desenvolvimento frontend e backend com Node.js."
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "aliases": [
+      "ts"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "qa_testing"
+    ],
+    "description": "Superset tipado estaticamente de JavaScript criado pela Microsoft."
+  },
+  {
+    "id": "nodejs",
+    "name": "Node.js",
+    "aliases": [
+      "node",
+      "node js"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Ambiente de execução JavaScript server-side baseado na engine V8 do Chrome."
+  },
+  {
+    "id": "nestjs",
+    "name": "NestJS",
+    "aliases": [
+      "nest.js",
+      "nest"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Framework progressivo para Node.js com arquitetura inspirada em Angular e TypeScript."
+  },
+  {
+    "id": "csharp",
+    "name": "C#",
+    "aliases": [
+      "c# .net",
+      "c sharp"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Linguagem moderna e orientada a objetos da Microsoft para a plataforma .NET."
+  },
+  {
+    "id": "dotnet",
+    "name": ".NET",
+    "aliases": [
+      ".net core",
+      "asp.net",
+      "dotnet core"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Plataforma de desenvolvimento multiplataforma e de código aberto da Microsoft."
+  },
+  {
+    "id": "php",
+    "name": "PHP",
+    "aliases": [
+      "php8"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Linguagem de script para desenvolvimento web back-end."
+  },
+  {
+    "id": "laravel",
+    "name": "Laravel",
+    "aliases": [
+      "laravel framework"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Framework PHP elegante e expressivo com padrão MVC."
+  },
+  {
+    "id": "golang",
+    "name": "Go",
+    "aliases": [
+      "golang"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "devops_platform",
+      "data_engineering"
+    ],
+    "description": "Linguagem compilada de alta performance e concorrência nativa criada pelo Google."
+  },
+  {
+    "id": "rust",
+    "name": "Rust",
+    "aliases": [
+      "rustlang"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "devops_platform"
+    ],
+    "description": "Linguagem de sistemas focada em segurança de memória, concorrência e performance."
+  },
+  {
+    "id": "ruby",
+    "name": "Ruby",
+    "aliases": [
+      "ruby on rails",
+      "rails"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Linguagem dinâmica orientada a objetos focada em simplicidade e produtividade."
+  },
+  {
+    "id": "rest_apis",
+    "name": "REST APIs",
+    "aliases": [
+      "rest",
+      "api rest",
+      "restful"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "qa_testing"
+    ],
+    "description": "Estilo arquitetural baseado em HTTP para comunicação entre serviços."
+  },
+  {
+    "id": "graphql",
+    "name": "GraphQL",
+    "aliases": [
+      "graph ql"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Linguagem de consulta e runtime para APIs permitindo declaração precisa de dados."
+  },
+  {
+    "id": "grpc",
+    "name": "gRPC",
+    "aliases": [
+      "grpc proto",
+      "protocol buffers"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "devops_platform"
+    ],
+    "description": "Framework de RPC de alto desempenho baseado em HTTP/2 e Protocol Buffers."
+  },
+  {
+    "id": "microservices",
+    "name": "Microsserviços",
+    "aliases": [
+      "microservices",
+      "arquitetura de microsserviços"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "devops_platform"
+    ],
+    "description": "Padrão arquitetural de software decomposto em serviços pequenos e independentes."
+  },
+  {
+    "id": "software_architecture",
+    "name": "Arquitetura de Software",
+    "aliases": [
+      "design patterns",
+      "clean architecture",
+      "ddd"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Princípios de design de sistemas, Clean Architecture, SOLID e Domain-Driven Design."
+  },
+  {
+    "id": "data_structures_algorithms",
+    "name": "Estruturas de Dados e Algoritmos",
+    "aliases": [
+      "algoritmos",
+      "data structures",
+      "dsa"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "ai_machine_learning"
+    ],
+    "description": "Fundamentos de computação, grafos, árvores, tabelas hash e análise de complexidade."
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "aliases": [
+      "github",
+      "gitlab",
+      "controle de versão"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "devops_platform",
+      "data_engineering",
+      "qa_testing"
+    ],
+    "description": "Sistema de controle de versão distribuído essencial para desenvolvimento de software."
+  },
+  {
+    "id": "unit_testing",
+    "name": "Testes Unitários",
+    "aliases": [
+      "tdd",
+      "testes unitarios",
+      "unit tests"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "qa_testing"
+    ],
+    "description": "Prática e frameworks para validação isolada de unidades de código."
+  },
+  {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "aliases": [
+      "postgres",
+      "pgsql"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "data_engineering",
+      "data_analytics"
+    ],
+    "description": "SGBD relacional objeto-relacional robusto, avançado e de código aberto."
+  },
+  {
+    "id": "mysql",
+    "name": "MySQL",
+    "aliases": [
+      "mariadb"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "data_engineering"
+    ],
+    "description": "Sistema de gerenciamento de banco de dados relacional popular e veloz."
+  },
+  {
+    "id": "sql_server",
+    "name": "SQL Server",
+    "aliases": [
+      "mssql",
+      "microsoft sql server"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "software_development",
+      "data_analytics"
+    ],
+    "description": "SGBD relacional corporativo da Microsoft com suporte a T-SQL."
+  },
+  {
+    "id": "oracle_db",
+    "name": "Oracle Database",
+    "aliases": [
+      "oracle",
+      "pl/sql",
+      "plsql"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "SGBD corporativo de alta confiabilidade para cargas de trabalho transacionais críticas."
+  },
+  {
+    "id": "redis",
+    "name": "Redis",
+    "aliases": [
+      "redis cache"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "devops_platform"
+    ],
+    "description": "Armazenamento de estrutura de dados em memória usado como cache e message broker."
+  },
+  {
+    "id": "mongodb",
+    "name": "MongoDB",
+    "aliases": [
+      "mongo",
+      "nosql"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "data_engineering"
+    ],
+    "description": "Banco de dados NoSQL orientado a documentos JSON flexíveis."
+  },
+  {
+    "id": "elasticsearch",
+    "name": "Elasticsearch",
+    "aliases": [
+      "elastic",
+      "opensearch",
+      "elk"
+    ],
+    "area": "devops_platform",
+    "related_areas": [
+      "software_development",
+      "data_engineering"
+    ],
+    "description": "Mecanismo distribuído de busca e análise textual em tempo real."
+  },
+  {
+    "id": "rabbitmq",
+    "name": "RabbitMQ",
+    "aliases": [
+      "amqp"
+    ],
+    "area": "software_development",
+    "related_areas": [
+      "devops_platform"
+    ],
+    "description": "Message broker robusto baseado no protocolo AMQP."
+  },
+  {
+    "id": "apache_kafka",
+    "name": "Apache Kafka",
+    "aliases": [
+      "kafka",
+      "kafka streaming"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "software_development",
+      "devops_platform"
+    ],
+    "description": "Plataforma distribuída de streaming de eventos para pipelines de alto rendimento."
+  },
+  {
+    "id": "apache_flink",
+    "name": "Apache Flink",
+    "aliases": [
+      "flink"
+    ],
+    "area": "data_engineering",
+    "related_areas": [],
+    "description": "Framework e engine de processamento de stream contínuo com baixa latência."
+  },
+  {
+    "id": "html_css",
+    "name": "HTML & CSS",
+    "aliases": [
+      "html5",
+      "css3",
+      "sass",
+      "tailwind"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Linguagens fundamentais para estruturação e estilização de páginas web."
+  },
+  {
+    "id": "react",
+    "name": "React",
+    "aliases": [
+      "reactjs",
+      "react.js"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Biblioteca JavaScript declarativa do ecossistema Meta para interfaces de usuário."
+  },
+  {
+    "id": "nextjs",
+    "name": "Next.js",
+    "aliases": [
+      "next.js",
+      "next"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Framework React para produção com SSR, SSG e rotas de API."
+  },
+  {
+    "id": "vuejs",
+    "name": "Vue.js",
+    "aliases": [
+      "vue",
+      "vue.js",
+      "nuxt"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Framework JavaScript progressivo e intuitivo para interfaces web."
+  },
+  {
+    "id": "angular",
+    "name": "Angular",
+    "aliases": [
+      "angular 2+",
+      "angularjs"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Plataforma de desenvolvimento e framework TypeScript mantido pelo Google."
+  },
+  {
+    "id": "jest",
+    "name": "Jest",
+    "aliases": [
+      "jest testing"
+    ],
+    "area": "qa_testing",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "Framework de testes em JavaScript com foco em simplicidade."
+  },
+  {
+    "id": "cypress",
+    "name": "Cypress",
+    "aliases": [
+      "cypress.io",
+      "cypress e2e"
+    ],
+    "area": "qa_testing",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "Ferramenta moderna de testes end-to-end e de componentes para a web moderna."
+  },
+  {
+    "id": "flutter",
+    "name": "Flutter",
+    "aliases": [
+      "flutter framework"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Kit de desenvolvimento de UI multiplataforma do Google baseado na linguagem Dart."
+  },
+  {
+    "id": "dart",
+    "name": "Dart",
+    "aliases": [
+      "dartlang"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Linguagem orientada a objetos otimizada para interfaces com o Flutter."
+  },
+  {
+    "id": "kotlin",
+    "name": "Kotlin",
+    "aliases": [
+      "kotlin android"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Linguagem moderna e concisa para desenvolvimento Android nativo e backend JVM."
+  },
+  {
+    "id": "android_native",
+    "name": "Android Nativo",
+    "aliases": [
+      "android sdk",
+      "jetpack compose"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Desenvolvimento nativo de aplicações móveis para o ecossistema Android."
+  },
+  {
+    "id": "swift",
+    "name": "Swift",
+    "aliases": [
+      "swift ios",
+      "swiftui"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Linguagem poderosa e intuitiva criada pela Apple para iOS e macOS."
+  },
+  {
+    "id": "ios_native",
+    "name": "iOS Nativo",
+    "aliases": [
+      "ios sdk",
+      "uikit",
+      "swiftui"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Desenvolvimento nativo de aplicativos para ecossistema Apple iOS."
+  },
+  {
+    "id": "react_native",
+    "name": "React Native",
+    "aliases": [
+      "react-native",
+      "expo"
+    ],
+    "area": "software_development",
+    "related_areas": [],
+    "description": "Framework para construção de aplicativos móveis nativos utilizando React."
+  },
+  {
+    "id": "linux",
+    "name": "Linux",
+    "aliases": [
+      "gnulinux",
+      "ubuntu",
+      "debian",
+      "redhat"
+    ],
+    "area": "devops_platform",
+    "related_areas": [
+      "software_development",
+      "data_engineering"
+    ],
+    "description": "Sistema operacional de código aberto base de servidores e infraestrutura moderna."
+  },
+  {
+    "id": "bash_shell",
+    "name": "Bash & Shell Script",
+    "aliases": [
+      "bash",
+      "shell script",
+      "sh"
+    ],
+    "area": "devops_platform",
+    "related_areas": [
+      "data_engineering"
+    ],
+    "description": "Linguagem de script e interface de linha de comando para automação em Linux."
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "aliases": [
+      "containers",
+      "docker-compose"
+    ],
+    "area": "devops_platform",
+    "related_areas": [
+      "software_development",
+      "data_engineering",
+      "qa_testing"
+    ],
+    "description": "Plataforma de virtualização em contêineres para empacotamento e execução de serviços."
+  },
+  {
+    "id": "kubernetes",
+    "name": "Kubernetes",
+    "aliases": [
+      "k8s",
+      "k8s cluster"
+    ],
+    "area": "devops_platform",
+    "related_areas": [
+      "data_engineering"
+    ],
+    "description": "Sistema de código aberto para automação de implantação, escalonamento e gerenciamento de contêineres."
+  },
+  {
+    "id": "helm",
+    "name": "Helm",
+    "aliases": [
+      "helm charts"
+    ],
+    "area": "devops_platform",
+    "related_areas": [],
+    "description": "Gerenciador de pacotes para Kubernetes facilitando implantações complexas."
+  },
+  {
+    "id": "terraform",
+    "name": "Terraform",
+    "aliases": [
+      "iac",
+      "opentofu"
+    ],
+    "area": "devops_platform",
+    "related_areas": [],
+    "description": "Ferramenta de Infraestrutura como Código (IaC) declarativa para nuvens públicas e privadas."
+  },
+  {
+    "id": "ansible",
+    "name": "Ansible",
+    "aliases": [
+      "ansible playbooks"
+    ],
+    "area": "devops_platform",
+    "related_areas": [],
+    "description": "Ferramenta de automação de TI, gerenciamento de configuração e provisionamento sem agentes."
+  },
+  {
+    "id": "cicd_pipelines",
+    "name": "CI/CD",
+    "aliases": [
+      "ci/cd",
+      "continuous integration",
+      "continuous delivery"
+    ],
+    "area": "devops_platform",
+    "related_areas": [
+      "software_development",
+      "qa_testing"
+    ],
+    "description": "Práticas e esteiras de integração contínua e entrega contínua automatizada."
+  },
+  {
+    "id": "github_actions",
+    "name": "GitHub Actions",
+    "aliases": [
+      "actions",
+      "gh actions"
+    ],
+    "area": "devops_platform",
+    "related_areas": [
+      "software_development",
+      "qa_testing"
+    ],
+    "description": "Plataforma de automação de fluxos de trabalho e CI/CD integrada ao GitHub."
+  },
+  {
+    "id": "gitlab_ci",
+    "name": "GitLab CI",
+    "aliases": [
+      "gitlab-ci",
+      "gitlab pipeline"
+    ],
+    "area": "devops_platform",
+    "related_areas": [],
+    "description": "Ferramenta integrada de CI/CD para desenvolvimento ágil no ecossistema GitLab."
+  },
+  {
+    "id": "jenkins",
+    "name": "Jenkins",
+    "aliases": [
+      "jenkins ci"
+    ],
+    "area": "devops_platform",
+    "related_areas": [],
+    "description": "Servidor de automação de código aberto clássico para construção de pipelines de CI/CD."
+  },
+  {
+    "id": "argo_cd",
+    "name": "Argo CD",
+    "aliases": [
+      "argocd",
+      "gitops"
+    ],
+    "area": "devops_platform",
+    "related_areas": [],
+    "description": "Ferramenta declarativa de GitOps e entrega contínua nativa para Kubernetes."
+  },
+  {
+    "id": "aws",
+    "name": "AWS",
+    "aliases": [
+      "amazon web services",
+      "aws cloud"
+    ],
+    "area": "devops_platform",
+    "related_areas": [
+      "data_engineering",
+      "software_development"
+    ],
+    "description": "Plataforma abrangente de computação em nuvem da Amazon (EC2, S3, ECS, EKS, RDS)."
+  },
+  {
+    "id": "gcp",
+    "name": "Google Cloud Platform",
+    "aliases": [
+      "gcp",
+      "google cloud"
+    ],
+    "area": "devops_platform",
+    "related_areas": [
+      "data_engineering",
+      "ai_machine_learning"
+    ],
+    "description": "Suíte de serviços de computação em nuvem do Google com forte ênfase em dados e IA."
+  },
+  {
+    "id": "azure",
+    "name": "Microsoft Azure",
+    "aliases": [
+      "azure cloud",
+      "microsoft azure"
+    ],
+    "area": "devops_platform",
+    "related_areas": [
+      "data_engineering",
+      "software_development"
+    ],
+    "description": "Plataforma de computação em nuvem corporativa da Microsoft."
+  },
+  {
+    "id": "prometheus",
+    "name": "Prometheus",
+    "aliases": [
+      "promql"
+    ],
+    "area": "devops_platform",
+    "related_areas": [],
+    "description": "Sistema de monitoramento e banco de dados de séries temporais para métricas."
+  },
+  {
+    "id": "grafana",
+    "name": "Grafana",
+    "aliases": [
+      "grafana dashboards"
+    ],
+    "area": "devops_platform",
+    "related_areas": [
+      "data_analytics"
+    ],
+    "description": "Plataforma de visualização e dashboards para observabilidade e métricas."
+  },
+  {
+    "id": "opentelemetry",
+    "name": "OpenTelemetry",
+    "aliases": [
+      "otel",
+      "tracing"
+    ],
+    "area": "devops_platform",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "Padrão aberto de instrumentação para coleta unificada de logs, métricas e traces."
+  },
+  {
+    "id": "networking_security",
+    "name": "Redes e Segurança em Nuvem",
+    "aliases": [
+      "vpc",
+      "firewall",
+      "dns",
+      "ssl/tls",
+      "iam"
+    ],
+    "area": "devops_platform",
+    "related_areas": [],
+    "description": "Conceitos de topologia de redes, VPC, subnets, balanceadores, certificados e IAM."
+  },
+  {
+    "id": "nginx",
+    "name": "Nginx",
+    "aliases": [
+      "reverse proxy",
+      "load balancer"
+    ],
+    "area": "devops_platform",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "Servidor HTTP, proxy reverso e balanceador de carga de alto desempenho."
+  },
+  {
+    "id": "sql",
+    "name": "SQL",
+    "aliases": [
+      "ansi sql",
+      "queries",
+      "consultas sql"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "software_development",
+      "data_analytics",
+      "ai_machine_learning"
+    ],
+    "description": "Linguagem universal declarativa para consulta e manipulação de bancos de dados relacionais."
+  },
+  {
+    "id": "apache_airflow",
+    "name": "Apache Airflow",
+    "aliases": [
+      "airflow",
+      "airflow dags"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "devops_platform"
+    ],
+    "description": "Plataforma programável em Python para orquestração e agendamento de pipelines de dados."
+  },
+  {
+    "id": "dbt",
+    "name": "dbt (data build tool)",
+    "aliases": [
+      "dbt core",
+      "dbt cloud"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "data_analytics"
+    ],
+    "description": "Framework de transformação de dados para engenharia analítica com SQL e Jinja no Data Warehouse."
+  },
+  {
+    "id": "apache_spark",
+    "name": "Apache Spark",
+    "aliases": [
+      "spark",
+      "spark core"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "ai_machine_learning"
+    ],
+    "description": "Motor analítico distribuído em memória para processamento de dados em larga escala."
+  },
+  {
+    "id": "pyspark",
+    "name": "PySpark",
+    "aliases": [
+      "pyspark dataframes"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "ai_machine_learning"
+    ],
+    "description": "API Python para o Apache Spark para manipulação distribuída de DataFrames."
+  },
+  {
+    "id": "trino",
+    "name": "Trino",
+    "aliases": [
+      "presto",
+      "trinodb"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "data_analytics"
+    ],
+    "description": "Motor de consultas SQL distribuídas e federadas de alta velocidade sobre data lakes."
+  },
+  {
+    "id": "apache_iceberg",
+    "name": "Apache Iceberg",
+    "aliases": [
+      "iceberg table format"
+    ],
+    "area": "data_engineering",
+    "related_areas": [],
+    "description": "Formato aberto de tabelas de alta performance para grandes volumes de dados analíticos."
+  },
+  {
+    "id": "delta_lake",
+    "name": "Delta Lake",
+    "aliases": [
+      "delta tables"
+    ],
+    "area": "data_engineering",
+    "related_areas": [],
+    "description": "Camada de armazenamento de código aberto que traz confiabilidade ACID para Data Lakes."
+  },
+  {
+    "id": "databricks",
+    "name": "Databricks",
+    "aliases": [
+      "databricks lakehouse"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "ai_machine_learning"
+    ],
+    "description": "Plataforma unificada de análise de dados, lakehouse e IA baseada em Spark e Delta Lake."
+  },
+  {
+    "id": "snowflake",
+    "name": "Snowflake",
+    "aliases": [
+      "snowflake dw"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "data_analytics"
+    ],
+    "description": "Data Cloud e Data Warehouse totalmente gerenciado e elástico em nuvem."
+  },
+  {
+    "id": "bigquery",
+    "name": "BigQuery",
+    "aliases": [
+      "google bigquery"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "data_analytics"
+    ],
+    "description": "Data Warehouse analítico corporativo sem servidor do Google Cloud."
+  },
+  {
+    "id": "amazon_s3",
+    "name": "Amazon S3 & Object Storage",
+    "aliases": [
+      "s3",
+      "blob storage",
+      "gcs"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "devops_platform"
+    ],
+    "description": "Armazenamento escalável de objetos na nuvem base de Data Lakes modernos."
+  },
+  {
+    "id": "aws_glue",
+    "name": "AWS Glue",
+    "aliases": [
+      "glue catalog",
+      "glue etl"
+    ],
+    "area": "data_engineering",
+    "related_areas": [],
+    "description": "Serviço gerenciado de ETL, catálogo de metadados e data integration da AWS."
+  },
+  {
+    "id": "amazon_redshift",
+    "name": "Amazon Redshift",
+    "aliases": [
+      "redshift"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "data_analytics"
+    ],
+    "description": "Data Warehouse em nuvem colunar totalmente gerenciado da AWS."
+  },
+  {
+    "id": "azure_data_factory",
+    "name": "Azure Data Factory",
+    "aliases": [
+      "adf"
+    ],
+    "area": "data_engineering",
+    "related_areas": [],
+    "description": "Serviço de integração de dados em nuvem da Microsoft para orquestração de ETL/ELT."
+  },
+  {
+    "id": "data_warehouse",
+    "name": "Data Warehouse & Modelagem Dimensional",
+    "aliases": [
+      "kimball",
+      "star schema",
+      "dw",
+      "modelagem dimensional"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "data_analytics"
+    ],
+    "description": "Conceitos de arquitetura analítica, schemas estrela/floco de neve e marts de dados."
+  },
+  {
+    "id": "data_lakehouse",
+    "name": "Data Lake & Lakehouse",
+    "aliases": [
+      "data lake",
+      "lakehouse",
+      "medallion architecture"
+    ],
+    "area": "data_engineering",
+    "related_areas": [],
+    "description": "Arquitetura unificada de armazenamento raw, silver e gold para analítica e ML."
+  },
+  {
+    "id": "data_quality_observability",
+    "name": "Qualidade e Observabilidade de Dados",
+    "aliases": [
+      "great expectations",
+      "soda",
+      "monte carlo"
+    ],
+    "area": "data_engineering",
+    "related_areas": [
+      "qa_testing"
+    ],
+    "description": "Testes de integridade, validação de schema, completude e linhagem de pipelines de dados."
+  },
+  {
+    "id": "etl_elt_pipelines",
+    "name": "Pipelines de ETL / ELT",
+    "aliases": [
+      "etl",
+      "elt",
+      "data pipelines"
+    ],
+    "area": "data_engineering",
+    "related_areas": [],
+    "description": "Desenho e implementação de fluxos de extração, transformação e carga de dados."
+  },
+  {
+    "id": "pandas",
+    "name": "Pandas",
+    "aliases": [
+      "pandas dataframe"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [
+      "data_analytics",
+      "data_engineering"
+    ],
+    "description": "Biblioteca Python fundamental para análise, manipulação e limpeza de dados estruturados."
+  },
+  {
+    "id": "numpy",
+    "name": "NumPy",
+    "aliases": [
+      "numpy arrays"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [
+      "data_analytics"
+    ],
+    "description": "Pacote fundamental para computação científica e álgebra linear com matrizes em Python."
+  },
+  {
+    "id": "scikit_learn",
+    "name": "Scikit-Learn",
+    "aliases": [
+      "sklearn"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [
+      "data_analytics"
+    ],
+    "description": "Biblioteca clássica de algoritmos de Machine Learning supervisionado e não-supervisionado."
+  },
+  {
+    "id": "pytorch",
+    "name": "PyTorch",
+    "aliases": [
+      "torch"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [],
+    "description": "Framework de Deep Learning flexível e amplamente adotado em pesquisa e produção."
+  },
+  {
+    "id": "tensorflow",
+    "name": "TensorFlow & Keras",
+    "aliases": [
+      "tensorflow",
+      "keras"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [],
+    "description": "Plataforma de ponta a ponta para aprendizado de máquina e redes neurais do Google."
+  },
+  {
+    "id": "hugging_face",
+    "name": "Hugging Face & Transformers",
+    "aliases": [
+      "transformers",
+      "huggingface"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [],
+    "description": "Hub e biblioteca para modelos pré-treinados de linguagem, visão e áudio."
+  },
+  {
+    "id": "machine_learning",
+    "name": "Fundamentos de Machine Learning",
+    "aliases": [
+      "ml",
+      "aprendizado de máquina"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [
+      "data_analytics"
+    ],
+    "description": "Conceitos de regressão, classificação, clustering, overfitting, validação cruzada e métricas."
+  },
+  {
+    "id": "deep_learning",
+    "name": "Deep Learning",
+    "aliases": [
+      "redes neurais",
+      "neural networks",
+      "cnn",
+      "rnn"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [],
+    "description": "Arquiteturas de redes neurais profundas para problemas complexos de visão e linguagem."
+  },
+  {
+    "id": "nlp",
+    "name": "Processamento de Linguagem Natural (NLP)",
+    "aliases": [
+      "nlp",
+      "text mining",
+      "spacy",
+      "nltk"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [],
+    "description": "Técnicas computacionais para análise, entendimento e geração de linguagem humana."
+  },
+  {
+    "id": "computer_vision",
+    "name": "Visão Computacional",
+    "aliases": [
+      "cv",
+      "opencv",
+      "segmentation",
+      "object detection"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [],
+    "description": "Algoritmos para processamento, detecção e classificação de imagens e vídeos."
+  },
+  {
+    "id": "embeddings_vector_search",
+    "name": "Embeddings e Busca Vetorial",
+    "aliases": [
+      "embeddings",
+      "vector search",
+      "similarity search"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [],
+    "description": "Representação semântica vetorial de textos e busca por similaridade de cosseno."
+  },
+  {
+    "id": "vector_databases",
+    "name": "Bancos de Dados Vetoriais",
+    "aliases": [
+      "qdrant",
+      "pinecone",
+      "weaviate",
+      "chromadb",
+      "faiss"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "Bancos especializados em indexação e consulta rápida de vetores de alta dimensionalidade."
+  },
+  {
+    "id": "rag_architecture",
+    "name": "Arquitetura RAG",
+    "aliases": [
+      "rag",
+      "retrieval augmented generation"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "Padrão de geração aumentada por recuperação conectando LLMs a bases de conhecimento externas."
+  },
+  {
+    "id": "llm_engineering",
+    "name": "Engenharia de LLMs e Prompts",
+    "aliases": [
+      "llm",
+      "large language models",
+      "prompt engineering"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [],
+    "description": "Aplicações com modelos fundacionais, fine-tuning, context management e engenharia de prompts."
+  },
+  {
+    "id": "langchain_llamaindex",
+    "name": "LangChain & LlamaIndex",
+    "aliases": [
+      "langchain",
+      "llamaindex",
+      "langgraph"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [],
+    "description": "Frameworks para orquestração de agentes autônomos e fluxos com modelos de linguagem."
+  },
+  {
+    "id": "mlflow",
+    "name": "MLflow & Rastreamento de Experimentos",
+    "aliases": [
+      "mlflow",
+      "experiment tracking",
+      "model registry"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [
+      "devops_platform"
+    ],
+    "description": "Plataforma para gerenciamento do ciclo de vida de ML, métricas de treino e registro de modelos."
+  },
+  {
+    "id": "mlops_llmops",
+    "name": "MLOps & LLMOps",
+    "aliases": [
+      "mlops",
+      "llmops",
+      "model serving"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [
+      "devops_platform"
+    ],
+    "description": "Automação de pipelines de CI/CD para modelos de IA, deploy, monitoramento de drift e inferência."
+  },
+  {
+    "id": "model_evaluation",
+    "name": "Avaliação e Benchmarking de Modelos",
+    "aliases": [
+      "model evaluation",
+      "ragas",
+      "evals"
+    ],
+    "area": "ai_machine_learning",
+    "related_areas": [],
+    "description": "Métricas de avaliação de resposta (precisão, recall, ROUGE, BLEU, fidelidade RAG)."
+  },
+  {
+    "id": "power_bi",
+    "name": "Power BI",
+    "aliases": [
+      "powerbi",
+      "dax",
+      "power query"
+    ],
+    "area": "data_analytics",
+    "related_areas": [],
+    "description": "Ferramenta líder de Business Intelligence e visualização interativa da Microsoft."
+  },
+  {
+    "id": "tableau",
+    "name": "Tableau",
+    "aliases": [
+      "tableau desktop",
+      "tableau server"
+    ],
+    "area": "data_analytics",
+    "related_areas": [],
+    "description": "Plataforma corporativa de análise visual e construção de painéis analíticos."
+  },
+  {
+    "id": "looker",
+    "name": "Looker & Metabase",
+    "aliases": [
+      "looker",
+      "lookml",
+      "metabase",
+      "superset"
+    ],
+    "area": "data_analytics",
+    "related_areas": [],
+    "description": "Plataformas modernas de business intelligence e camada semântica com LookML/SQL."
+  },
+  {
+    "id": "excel_advanced",
+    "name": "Excel Avançado & VBA",
+    "aliases": [
+      "excel",
+      "vba",
+      "tabelas dinamicas"
+    ],
+    "area": "data_analytics",
+    "related_areas": [
+      "product"
+    ],
+    "description": "Planilhas eletrônicas, funções avançadas, Power Pivot e modelagem financeira/operacional."
+  },
+  {
+    "id": "r_lang",
+    "name": "R & RStudio",
+    "aliases": [
+      "r",
+      "rstudio",
+      "ggplot2"
+    ],
+    "area": "data_analytics",
+    "related_areas": [
+      "ai_machine_learning"
+    ],
+    "description": "Linguagem e ambiente para computação estatística e gráficos."
+  },
+  {
+    "id": "statistics",
+    "name": "Estatística Descritiva e Inferencial",
+    "aliases": [
+      "estatistica",
+      "inferencia",
+      "probabilidade"
+    ],
+    "area": "data_analytics",
+    "related_areas": [
+      "ai_machine_learning"
+    ],
+    "description": "Conceitos de distribuição, testes de hipótese, intervalos de confiança e regressão."
+  },
+  {
+    "id": "exploratory_data_analysis",
+    "name": "Análise Exploratória de Dados (EDA)",
+    "aliases": [
+      "eda",
+      "analise exploratoria"
+    ],
+    "area": "data_analytics",
+    "related_areas": [
+      "ai_machine_learning"
+    ],
+    "description": "Técnicas de investigação inicial de conjuntos de dados para descoberta de padrões e anomalias."
+  },
+  {
+    "id": "data_visualization",
+    "name": "Visualização de Dados & Storytelling",
+    "aliases": [
+      "storytelling com dados",
+      "dataviz"
+    ],
+    "area": "data_analytics",
+    "related_areas": [
+      "product"
+    ],
+    "description": "Boas práticas de comunicação visual de dados para tomada de decisão executiva."
+  },
+  {
+    "id": "kpis_metrics_definition",
+    "name": "Definição de Métricas e KPIs",
+    "aliases": [
+      "kpis",
+      "metricas de negocio",
+      "indicadores"
+    ],
+    "area": "data_analytics",
+    "related_areas": [
+      "product"
+    ],
+    "description": "Estruturação de indicadores chave de desempenho alinhados a objetivos organizacionais."
+  },
+  {
+    "id": "ab_testing",
+    "name": "Testes A/B e Experimentação",
+    "aliases": [
+      "testes ab",
+      "a/b testing",
+      "experimentacao"
+    ],
+    "area": "data_analytics",
+    "related_areas": [
+      "product"
+    ],
+    "description": "Metodologia estatística para validação de hipóteses e impacto de novas funcionalidades."
+  },
+  {
+    "id": "product_discovery",
+    "name": "Product Discovery",
+    "aliases": [
+      "discovery de produto",
+      "continuous discovery"
+    ],
+    "area": "product",
+    "related_areas": [],
+    "description": "Processo de exploração e validação de problemas, oportunidades e soluções de produto."
+  },
+  {
+    "id": "backlog_management",
+    "name": "Gestão de Backlog e User Stories",
+    "aliases": [
+      "gestao de backlog",
+      "historias de usuario",
+      "user stories"
+    ],
+    "area": "product",
+    "related_areas": [],
+    "description": "Refinamento, priorização e detalhamento de itens de trabalho para times de engenharia."
+  },
+  {
+    "id": "product_roadmap",
+    "name": "Roadmap e Visão de Produto",
+    "aliases": [
+      "roadmap",
+      "visao de produto",
+      "product strategy"
+    ],
+    "area": "product",
+    "related_areas": [],
+    "description": "Definição de direção estratégica, marcos temporais e comunicação com stakeholders."
+  },
+  {
+    "id": "scrum_kanban",
+    "name": "Metodologias Ágeis (Scrum / Kanban)",
+    "aliases": [
+      "scrum",
+      "kanban",
+      "agile",
+      "agilidade"
+    ],
+    "area": "product",
+    "related_areas": [
+      "software_development",
+      "qa_testing"
+    ],
+    "description": "Frameworks ágeis de gestão de fluxo, sprints, cerimônias e melhoria contínua."
+  },
+  {
+    "id": "jira",
+    "name": "Jira & Confluence",
+    "aliases": [
+      "jira",
+      "confluence",
+      "atlassian"
+    ],
+    "area": "product",
+    "related_areas": [
+      "software_development",
+      "qa_testing"
+    ],
+    "description": "Ferramentas padrão de mercado para acompanhamento de tarefas, projetos e documentação."
+  },
+  {
+    "id": "requirements_gathering",
+    "name": "Engenharia de Requisitos e Processos",
+    "aliases": [
+      "levantamento de requisitos",
+      "especificacao funcional",
+      "bpm"
+    ],
+    "area": "product",
+    "related_areas": [],
+    "description": "Mapeamento de processos de negócio e elicitação de requisitos funcionais e técnicos."
+  },
+  {
+    "id": "prototyping_figma",
+    "name": "Prototipação e Wireframing (Figma)",
+    "aliases": [
+      "figma",
+      "wireframes",
+      "prototipacao"
+    ],
+    "area": "product",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "Elaboração de rascunhos de telas e fluxos de navegação para alinhamento com design."
+  },
+  {
+    "id": "user_research",
+    "name": "Pesquisa com Usuários (User Research)",
+    "aliases": [
+      "user research",
+      "entrevistas com clientes"
+    ],
+    "area": "product",
+    "related_areas": [],
+    "description": "Metodologias qualitativas e quantitativas de escuta ativa e validação com clientes."
+  },
+  {
+    "id": "product_metrics_okrs",
+    "name": "Métricas de Produto e OKRs",
+    "aliases": [
+      "okrs",
+      "product analytics",
+      "north star metric"
+    ],
+    "area": "product",
+    "related_areas": [
+      "data_analytics"
+    ],
+    "description": "Framework de Objectives & Key Results e métricas de engajamento, adoção e receita."
+  },
+  {
+    "id": "business_strategy",
+    "name": "Estratégia de Negócios e Monetização",
+    "aliases": [
+      "business case",
+      "estrategia de negocios",
+      "unit economics"
+    ],
+    "area": "product",
+    "related_areas": [],
+    "description": "Análise de viabilidade comercial, mercado competitivo e precificação de soluções."
+  },
+  {
+    "id": "manual_testing",
+    "name": "Testes Manuais e Exploratórios",
+    "aliases": [
+      "testes manuais",
+      "exploratory testing"
+    ],
+    "area": "qa_testing",
+    "related_areas": [],
+    "description": "Execução orientada de testes baseados em cenários de uso e exploração crítica do sistema."
+  },
+  {
+    "id": "test_case_design",
+    "name": "Elaboração de Casos de Teste e Planos de Teste",
+    "aliases": [
+      "casos de teste",
+      "planos de teste",
+      "matriz de rastreabilidade"
+    ],
+    "area": "qa_testing",
+    "related_areas": [],
+    "description": "Documentação formal de pré-condições, passos de execução e resultados esperados."
+  },
+  {
+    "id": "automated_testing",
+    "name": "Fundamentos de Automação de Testes",
+    "aliases": [
+      "automacao de testes",
+      "test automation"
+    ],
+    "area": "qa_testing",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "Estratégia da pirâmide de testes e criação de suítes de regressão automatizadas."
+  },
+  {
+    "id": "selenium",
+    "name": "Selenium WebDriver",
+    "aliases": [
+      "selenium",
+      "selenium grid"
+    ],
+    "area": "qa_testing",
+    "related_areas": [],
+    "description": "Framework de automação de navegadores web multiplataforma."
+  },
+  {
+    "id": "playwright",
+    "name": "Playwright",
+    "aliases": [
+      "playwright test"
+    ],
+    "area": "qa_testing",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "Framework moderno de automação web rápida e confiável da Microsoft."
+  },
+  {
+    "id": "appium",
+    "name": "Appium (Automação Mobile)",
+    "aliases": [
+      "appium",
+      "mobile automation"
+    ],
+    "area": "qa_testing",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "Framework de automação de testes para aplicativos móveis nativos e híbridos iOS e Android."
+  },
+  {
+    "id": "pytest",
+    "name": "Pytest",
+    "aliases": [
+      "pytest framework"
+    ],
+    "area": "qa_testing",
+    "related_areas": [
+      "software_development",
+      "data_engineering",
+      "ai_machine_learning"
+    ],
+    "description": "Framework padrão de testes automatizados em Python maduro e extensível com fixtures."
+  },
+  {
+    "id": "junit",
+    "name": "JUnit & TestNG",
+    "aliases": [
+      "junit",
+      "junit 5",
+      "testng"
+    ],
+    "area": "qa_testing",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "Frameworks de teste unitário e integração para aplicações Java/JVM."
+  },
+  {
+    "id": "postman_newman",
+    "name": "Postman & Newman (Testes de API)",
+    "aliases": [
+      "postman",
+      "newman",
+      "api testing"
+    ],
+    "area": "qa_testing",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "Plataforma para teste funcional, automação e monitoramento de requisições em APIs REST."
+  },
+  {
+    "id": "rest_assured",
+    "name": "REST Assured",
+    "aliases": [
+      "restassured"
+    ],
+    "area": "qa_testing",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "Biblioteca Java fluente para automação e validação de serviços RESTful."
+  },
+  {
+    "id": "jmeter",
+    "name": "Apache JMeter",
+    "aliases": [
+      "jmeter",
+      "testes de carga"
+    ],
+    "area": "qa_testing",
+    "related_areas": [
+      "devops_platform"
+    ],
+    "description": "Ferramenta de código aberto para simulação de carga e testes de desempenho de aplicações."
+  },
+  {
+    "id": "k6",
+    "name": "Grafana k6",
+    "aliases": [
+      "k6",
+      "k6 load testing"
+    ],
+    "area": "qa_testing",
+    "related_areas": [
+      "devops_platform"
+    ],
+    "description": "Ferramenta moderna de teste de carga baseada em código JavaScript/Go para desenvolvedores."
+  },
+  {
+    "id": "api_testing",
+    "name": "Testes de Contrato e Integração de APIs",
+    "aliases": [
+      "testes de api",
+      "contract testing",
+      "pact"
+    ],
+    "area": "qa_testing",
+    "related_areas": [
+      "software_development"
+    ],
+    "description": "Validação de contratos, schemas JSON e comportamento de endpoints de microsserviços."
+  },
+  {
+    "id": "performance_testing",
+    "name": "Testes de Performance e Estresse",
+    "aliases": [
+      "testes de performance",
+      "stress testing"
+    ],
+    "area": "qa_testing",
+    "related_areas": [
+      "devops_platform"
+    ],
+    "description": "Avaliação de throughput, limites de saturação, tempos de resposta e uso de recursos."
+  },
+  {
+    "id": "security_testing_owasp",
+    "name": "Testes de Segurança e OWASP",
+    "aliases": [
+      "owasp",
+      "testes de seguranca",
+      "sast",
+      "dast"
+    ],
+    "area": "qa_testing",
+    "related_areas": [
+      "devops_platform",
+      "software_development"
+    ],
+    "description": "Identificação de vulnerabilidades conhecidas, injeção SQL, XSS e boas práticas de segurança."
+  }
+]

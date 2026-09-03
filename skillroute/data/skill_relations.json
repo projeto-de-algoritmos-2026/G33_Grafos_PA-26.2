@@ -1,0 +1,697 @@
+[
+  {
+    "source": "python:basico",
+    "target": "flask:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "python:intermediario",
+    "target": "django:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "python:intermediario",
+    "target": "fastapi:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "fastapi:basico",
+    "target": "fastapi:intermediario",
+    "cost": 2.5
+  },
+  {
+    "source": "python:intermediario",
+    "target": "pyspark:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "python:intermediario",
+    "target": "pandas:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "pandas:basico",
+    "target": "numpy:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "pandas:intermediario",
+    "target": "scikit_learn:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "scikit_learn:intermediario",
+    "target": "pytorch:basico",
+    "cost": 3.0
+  },
+  {
+    "source": "scikit_learn:intermediario",
+    "target": "tensorflow:basico",
+    "cost": 3.0
+  },
+  {
+    "source": "python:intermediario",
+    "target": "apache_airflow:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "python:basico",
+    "target": "pytest:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "java:basico",
+    "target": "java:intermediario",
+    "cost": 3.0
+  },
+  {
+    "source": "java:intermediario",
+    "target": "spring_boot:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "spring_boot:basico",
+    "target": "spring_boot:intermediario",
+    "cost": 2.5
+  },
+  {
+    "source": "java:intermediario",
+    "target": "junit:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "java:intermediario",
+    "target": "rest_assured:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "java:intermediario",
+    "target": "kotlin:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "javascript:basico",
+    "target": "html_css:intermediario",
+    "cost": 1.5
+  },
+  {
+    "source": "javascript:intermediario",
+    "target": "typescript:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "typescript:basico",
+    "target": "react:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "react:basico",
+    "target": "react:intermediario",
+    "cost": 2.5
+  },
+  {
+    "source": "react:intermediario",
+    "target": "nextjs:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "typescript:basico",
+    "target": "vuejs:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "typescript:basico",
+    "target": "angular:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "javascript:intermediario",
+    "target": "nodejs:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "nodejs:basico",
+    "target": "nestjs:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "javascript:intermediario",
+    "target": "jest:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "javascript:intermediario",
+    "target": "cypress:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "react:intermediario",
+    "target": "react_native:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "csharp:basico",
+    "target": "dotnet:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "csharp:intermediario",
+    "target": "dotnet:intermediario",
+    "cost": 2.5
+  },
+  {
+    "source": "dotnet:intermediario",
+    "target": "sql_server:intermediario",
+    "cost": 2.0
+  },
+  {
+    "source": "php:basico",
+    "target": "laravel:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "dart:basico",
+    "target": "flutter:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "kotlin:basico",
+    "target": "android_native:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "swift:basico",
+    "target": "ios_native:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "flutter:intermediario",
+    "target": "appium:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "rest_apis:basico",
+    "target": "graphql:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "rest_apis:intermediario",
+    "target": "grpc:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "rest_apis:intermediario",
+    "target": "microservices:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "microservices:basico",
+    "target": "rabbitmq:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "rabbitmq:basico",
+    "target": "apache_kafka:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "sql:basico",
+    "target": "postgresql:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "sql:basico",
+    "target": "mysql:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "sql:intermediario",
+    "target": "postgresql:intermediario",
+    "cost": 1.5
+  },
+  {
+    "source": "sql:intermediario",
+    "target": "sql_server:intermediario",
+    "cost": 1.5
+  },
+  {
+    "source": "sql:intermediario",
+    "target": "oracle_db:intermediario",
+    "cost": 2.0
+  },
+  {
+    "source": "postgresql:intermediario",
+    "target": "redis:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "sql:intermediario",
+    "target": "mongodb:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "postgresql:intermediario",
+    "target": "elasticsearch:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "linux:basico",
+    "target": "bash_shell:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "linux:intermediario",
+    "target": "docker:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "docker:basico",
+    "target": "docker:intermediario",
+    "cost": 2.5
+  },
+  {
+    "source": "docker:intermediario",
+    "target": "kubernetes:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "kubernetes:basico",
+    "target": "kubernetes:intermediario",
+    "cost": 3.0
+  },
+  {
+    "source": "kubernetes:intermediario",
+    "target": "helm:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "kubernetes:intermediario",
+    "target": "argo_cd:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "git:basico",
+    "target": "cicd_pipelines:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "cicd_pipelines:basico",
+    "target": "github_actions:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "cicd_pipelines:basico",
+    "target": "gitlab_ci:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "cicd_pipelines:basico",
+    "target": "jenkins:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "linux:intermediario",
+    "target": "terraform:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "linux:intermediario",
+    "target": "ansible:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "terraform:basico",
+    "target": "aws:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "terraform:basico",
+    "target": "gcp:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "terraform:basico",
+    "target": "azure:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "aws:basico",
+    "target": "gcp:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "aws:basico",
+    "target": "azure:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "docker:intermediario",
+    "target": "prometheus:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "prometheus:basico",
+    "target": "grafana:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "prometheus:intermediario",
+    "target": "opentelemetry:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "linux:intermediario",
+    "target": "networking_security:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "linux:intermediario",
+    "target": "nginx:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "sql:intermediario",
+    "target": "dbt:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "dbt:basico",
+    "target": "dbt:intermediario",
+    "cost": 2.5
+  },
+  {
+    "source": "sql:intermediario",
+    "target": "data_warehouse:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "data_warehouse:basico",
+    "target": "snowflake:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "data_warehouse:basico",
+    "target": "bigquery:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "data_warehouse:basico",
+    "target": "amazon_redshift:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "sql:intermediario",
+    "target": "trino:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "python:intermediario",
+    "target": "apache_spark:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "apache_spark:basico",
+    "target": "pyspark:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "pyspark:basico",
+    "target": "databricks:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "pyspark:intermediario",
+    "target": "delta_lake:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "delta_lake:basico",
+    "target": "apache_iceberg:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "apache_kafka:intermediario",
+    "target": "apache_flink:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "aws:basico",
+    "target": "amazon_s3:basico",
+    "cost": 1.0
+  },
+  {
+    "source": "aws:intermediario",
+    "target": "aws_glue:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "azure:intermediario",
+    "target": "azure_data_factory:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "data_warehouse:basico",
+    "target": "data_lakehouse:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "etl_elt_pipelines:basico",
+    "target": "data_quality_observability:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "sql:basico",
+    "target": "etl_elt_pipelines:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "statistics:basico",
+    "target": "machine_learning:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "machine_learning:basico",
+    "target": "deep_learning:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "machine_learning:intermediario",
+    "target": "nlp:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "machine_learning:intermediario",
+    "target": "computer_vision:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "nlp:intermediario",
+    "target": "hugging_face:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "hugging_face:basico",
+    "target": "embeddings_vector_search:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "embeddings_vector_search:basico",
+    "target": "vector_databases:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "vector_databases:basico",
+    "target": "rag_architecture:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "rag_architecture:basico",
+    "target": "langchain_llamaindex:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "llm_engineering:basico",
+    "target": "rag_architecture:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "machine_learning:intermediario",
+    "target": "mlflow:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "mlflow:basico",
+    "target": "mlops_llmops:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "rag_architecture:intermediario",
+    "target": "model_evaluation:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "python:intermediario",
+    "target": "exploratory_data_analysis:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "sql:basico",
+    "target": "power_bi:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "sql:basico",
+    "target": "tableau:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "sql:intermediario",
+    "target": "looker:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "excel_advanced:basico",
+    "target": "power_bi:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "power_bi:basico",
+    "target": "data_visualization:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "tableau:basico",
+    "target": "data_visualization:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "statistics:basico",
+    "target": "ab_testing:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "exploratory_data_analysis:basico",
+    "target": "kpis_metrics_definition:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "scrum_kanban:basico",
+    "target": "jira:basico",
+    "cost": 1.0
+  },
+  {
+    "source": "scrum_kanban:intermediario",
+    "target": "backlog_management:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "backlog_management:basico",
+    "target": "product_discovery:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "product_discovery:basico",
+    "target": "product_roadmap:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "product_discovery:basico",
+    "target": "user_research:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "user_research:basico",
+    "target": "prototyping_figma:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "requirements_gathering:basico",
+    "target": "backlog_management:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "kpis_metrics_definition:basico",
+    "target": "product_metrics_okrs:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "product_roadmap:intermediario",
+    "target": "business_strategy:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "manual_testing:basico",
+    "target": "test_case_design:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "manual_testing:intermediario",
+    "target": "automated_testing:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "automated_testing:basico",
+    "target": "selenium:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "automated_testing:basico",
+    "target": "cypress:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "automated_testing:basico",
+    "target": "playwright:basico",
+    "cost": 2.0
+  },
+  {
+    "source": "automated_testing:basico",
+    "target": "appium:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "automated_testing:basico",
+    "target": "pytest:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "automated_testing:basico",
+    "target": "junit:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "rest_apis:basico",
+    "target": "postman_newman:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "postman_newman:basico",
+    "target": "api_testing:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "api_testing:intermediario",
+    "target": "performance_testing:basico",
+    "cost": 2.5
+  },
+  {
+    "source": "performance_testing:basico",
+    "target": "jmeter:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "performance_testing:basico",
+    "target": "k6:basico",
+    "cost": 1.5
+  },
+  {
+    "source": "automated_testing:intermediario",
+    "target": "security_testing_owasp:basico",
+    "cost": 3.0
+  },
+  {
+    "source": "sql:intermediario",
+    "target": "data_quality_observability:basico",
+    "cost": 2.0
+  }
+]
