@@ -19,11 +19,6 @@ A proposta central do projeto é superar as limitações do casamento textual ra
 
 A recomendação resultante é **100% determinística, explicável e reproduzível**, combinando prontidão técnica imediata, alinhamento contextual de carreira e esforço mínimo de aprendizado.
 
-### Documentação de Apoio
-
-* 📄 [Documento de Arquitetura e Objetivos Detalhados](file:///home/eric/Área%20de%20trabalho/UnB/PA/G33_Grafos_PA-26.2/SkillRoute_Arquitetura_e_Objetivos.md)
-* 🎬 [Roteiro de Gravação do Vídeo de Apresentação](file:///home/eric/Área%20de%20trabalho/UnB/PA/G33_Grafos_PA-26.2/docs/ROTEIRO_VIDEO.md)
-
 ### Estatísticas do Dataset Controlado
 
 * **63 vagas sintéticas detalhadas** (9 vagas por área profissional, cobrindo estágios, júnior, pleno, sênior e especialista);
