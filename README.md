@@ -221,9 +221,38 @@ $$\text{PROFILE} \longrightarrow \text{Nível Atual} \longrightarrow \text{Níve
 
 ## Screenshots
 
-<!-- TODO: adicionar screenshot da tela de perfil -->
-<!-- TODO: adicionar screenshot das recomendações com breakdown da nota -->
-<!-- TODO: adicionar screenshot do caminho mínimo e grafo interativo PyVis -->
+### 1. Perfil do Candidato e Gestão de Competências
+Configuração interativa da área profissional, cargo alvo, senioridade e inclusão dinâmica de competências com respectivos níveis de proficiência:
+
+![Tela de Perfil do Candidato](assets/screenshots/tela_perfil_candidato.png)
+
+---
+
+### 2. Vagas Recomendadas e Ranking de Compatibilidade
+Lista de vagas ranqueadas com filtros por área, senioridade e ordenação por compatibilidade ou custo de evolução:
+
+![Tela de Vagas Recomendadas](assets/screenshots/tela_vagas_recomendadas.png)
+
+---
+
+### 3. Detalhamento e Justificativa Explicável da Nota
+Decomposição transparente da nota consolidada em 3 cartões dedicados (Match Técnico 60%, Contexto 20% e Proximidade Dijkstra 20%):
+
+![Detalhamento das Vagas Recomendadas](assets/screenshots/detalhamento_vagas_recomendadas.png)
+
+---
+
+### 4. Percurso e Passos de Aprendizado por Requisito
+Mapeamento passo a passo das lacunas técnicas, comparando nível atual vs exigido e exibindo as transições do menor caminho:
+
+![Percurso até a Vaga Desejada](assets/screenshots/percurso_vagas_desejadas.png)
+
+---
+
+### 5. Visualização Hierárquica do Grafo com Algoritmo de Dijkstra (PyVis)
+Renderização interativa da rede hierárquica (LR) com a paleta de 3 cores (🟣 Roxo para a origem `PROFILE`, 🟢 Verde para atendidos e 🔴 Vermelho para pendentes):
+
+![Representação do Grafo do Percurso da Vaga](assets/screenshots/representacao_grafos_percurso_vaga_desejada.png)
 
 ---
 
