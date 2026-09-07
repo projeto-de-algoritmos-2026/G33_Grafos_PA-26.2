@@ -253,13 +253,13 @@ Renderização interativa da rede hierárquica (LR) com a paleta de 3 cores (�
 
 ## Vídeo de Apresentação
 
-O vídeo de apresentação e demonstração técnica do projeto está disponível abaixo:
-
 <div align="center">
-  <iframe width="720" height="405" src="https://www.youtube.com/embed/eWr2ptEg2kg" title="Apresentação SkillRoute - Grafos e Algoritmo de Dijkstra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <a href="https://youtu.be/eWr2ptEg2kg">
+    <img src="https://img.youtube.com/vi/eWr2ptEg2kg/maxresdefault.jpg" alt="Apresentação SkillRoute - Grafos e Algoritmo de Dijkstra" width="720">
+  </a>
+  <br>
+  <a href="https://youtu.be/eWr2ptEg2kg">🎥 Assistir à Apresentação no YouTube</a>
 </div>
-
-* 🎥 **Link direto para o vídeo:** [https://youtu.be/eWr2ptEg2kg](https://youtu.be/eWr2ptEg2kg)
 
 ---
 
